@@ -1,0 +1,120 @@
+﻿
+@{
+    ViewBag.Title = "UserPanel";
+}
+@using proje_eticaret.Models;
+@model List<Customer>
+@section body{
+    <body>
+        <!--================Checkout Area =================-->
+        <section class="checkout_area section_gap">
+            <div class="container">
+                <div class="returning_customer">
+                    <div class="check_title">
+                        <h2>Parola Değiştir</h2>
+                    </div>
+                    <p>
+
+                    </p>
+                    <form class="row contact_form" action="/User/ResetPassword" method="post" novalidate="novalidate">
+                        <div class="col-md-4 form-group p_star">
+                            <input type="text" class="form-control" id="inputPasswordQuestion" placeholder="Gizli soru" name="PasswordQuestion">
+                        </div>
+                        <div class="col-md-4 form-group p_star">
+                            <input type="text" class="form-control" id="inputPasswordAnswer" placeholder="Gizli cevap" name="PasswordAnswer">
+                        </div>
+                        <div class="col-md-4 form-group p_star">
+                            <input type="password" class="form-control" id="inputPassword" placeholder="Yeni Parola" name="Password">
+                        </div>
+                        <div class="col-md-12 form-group">
+                            <button type="submit" value="submit" class="primary-btn">Parola Sıfırla</button>
+                        </div>
+                    </form>
+                    <p style="color:red; text-align:center">@ViewBag.resetPasswordMessage</p>
+                </div>
+                <div class="cupon_area">
+                    <div class="check_title">
+                        <h2>Adres Bilgileri</h2>
+                    </div>
+                </div>
+                <div class="billing_details">
+                    <div class="row">
+                        <div class="col-lg-8">
+                            <h3>Adres Detayı</h3>
+                            <form class="row contact_form" action="/User/UserPanel" method="post" novalidate="novalidate">
+                                <div class="col-md-6 form-group p_star">
+                                    <input type="text" class="form-control" id="first" placeholder="Ad Soyad" name="Name">
+                                    <span></span>
+                                </div>
+                                <div class="col-md-6 form-group p_star">
+                                    <input type="text" class="form-control" id="number" placeholder="Telefon Numarası" name="Phone">
+                                </div>
+                                <div class="col-md-6 form-group p_star">
+                                    <input type="text" class="form-control" id="email" placeholder="Email" name="Email">
+                                </div>
+                                <div class="col-md-12 form-group p_star">
+                                    <select class="country_select" disabled>
+                                        <option value="1">Türkiye</option>
+                                    </select>
+                                </div>
+                                <div class="col-md-12 form-group p_star">
+                                    <select class="country_select" disabled>
+                                        <option value="1">İstanbul</option>
+                                    </select>
+                                </div>
+                                <div class="col-md-12 form-group p_star">
+                                    <select class="country_select" name="County">
+                                        <option>Kadıköy</option>
+                                        <option>Beşiktaş</option>
+                                        <option>Kartal</option>
+                                        <option>Maltepe</option>
+                                        <option>Pendik</option>
+                                    </select>
+                                </div>
+                                <div class="col-md-12 form-group p_star">
+                                    <input type="text" class="form-control" id="add1" placeholder="Adres" name="Address">
+                                    <input type="hidden" class="form-control" name="UserName" value="@User.Identity.Name">
+                                </div>
+
+                                <div class="col-lg-4">
+                                    <button type="submit" class="primary-btn" href="/User/UserPanel?uName=@User.Identity.Name">Kaydet</button>
+                                </div>
+                            </form>
+                        </div>
+                        <!--#region addres  -->
+                        <div class="col-lg-4">
+                            <div class="order_box">
+                                <h2>Adreslerim</h2>
+                                @{ if (Model != null)
+                                    {
+                                        int a = 1;
+                                        foreach (Customer c in Model)
+                                        {
+                                            if (User.Identity.Name == c.UserName)
+                                            {
+                                                <div class="payment_item">
+                                                    <div class="radion_btn">
+                                                        <input type="radio" id="f-option5" name="selector">
+                                                        <label for="f-option5">Adres @a</label>
+                                                    </div>
+                                                    <p>
+                                                        @c.Name, @c.Address @c.County/İstanbul
+                                                        (@c.Phone)
+                                                    </p>
+                                                </div>
+                                                a++;
+                                            }
+                                        }
+                                    }
+                                }
+                            </div>
+                            </div>
+                        <!--#endregion -->
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--================End Checkout Area =================-->
+    </body>
+}
+

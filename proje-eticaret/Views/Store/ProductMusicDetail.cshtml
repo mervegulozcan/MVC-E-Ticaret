@@ -1,0 +1,141 @@
+﻿
+@{
+    ViewBag.Title = "ProductMusicDetail";
+}
+@using proje_eticaret.Models;
+@model Music
+
+@section body{
+    <!--================Single Product Area =================-->
+    <div class="product_image_area">
+        <div class="container">
+            <div class="row s_product_inner">
+                <div class="col-lg-6">
+                    <div class="s_Product_carousel">
+                        <div class="single-prd-item">
+                            <img src="@String.Format("data:image/jpg;base64,{0}", Model.Base64String)" width="540" height="570">
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-5 offset-lg-1">
+                    <div class="s_product_text">
+                        <h3>@Model.Artist</h3>
+                        <h2>@Model.Price Tl</h2>
+                        <ul class="list">
+                            <li><a class="active"><span>Tür</span> : @Model.Genre</a></li>
+                            <li><a><span>Availibility</span> : In Stock</a></li>
+                        </ul>
+                        <div class="card_area d-flex align-items-center">
+                            <a class="primary-btn sepeteEkle" data-pri="@Model.Price" data-name="@Model.AlbumName" style="color:white;">Sepete Ekle</a>
+                            <a class="icon_btn favoriEkle" data-prdid="@Model.ProductID" data-catid="@Model.CategoryID" href="#/"><i class="lnr lnr lnr-heart"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--================End Single Product Area =================-->
+    <!--================Product Description Area =================-->
+    <section class="product_description_area">
+        <div class="container">
+            <ul class="nav nav-tabs" id="myTab" role="tablist">
+                <li class="nav-item">
+                    <a class="nav-link active show " id="profile-tab" data-toggle="tab" href="#profile" role="tab" aria-controls="profile"
+                       aria-selected="true">Detay</a>
+                    <table class="table">
+                        <tbody>
+                            <tr>
+                                <td>
+                                    <h5 style="font-weight:bold">Albüm Adı:</h5>
+                                </td>
+                                <td>
+                                    <h5>@Model.AlbumName</h5>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <h5 style="font-weight:bold">Yapımcı Şirket:</h5>
+                                </td>
+                                <td>
+                                    <h5>@Model.CompanyName</h5>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <h5 style="font-weight:bold">Çıkış Tarihi:</h5>
+                                </td>
+                                <td>
+                                    <h5>@Model.RelaseDate.ToShortDateString()</h5>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <h5 style="font-weight:bold">Tür:</h5>
+                                </td>
+                                <td>
+                                    <h5>@Model.Genre</h5>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+
+                </li>
+            </ul>
+            <div class="tab-content" id="myTabContent">
+                <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
+                    <div class="table-responsive">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--================End Product Description Area =================-->
+}
+@section scripts{
+    <script>
+        $(".sepeteEkle").click(function () {
+            var name = $(this).attr("data-name");
+            const price = $(this).attr("data-pri");
+            
+            $.ajax({
+                type: "POST",
+                url: "/User/AddCart",
+                data: { pName: name, pPrice: price },
+                success: function () {
+                    $.ajax({
+                        type: "GET",
+                        url: "/User/PartialCart",
+                        success: function (response) {
+                            $("#sepet").html(response);
+                            return response;
+                        },
+                        error: function () {
+                            alert("Ürün sayısını getirme sırasında hata oluştu");
+                        }
+                    });
+                },
+                error: function () {
+                    alert("Ürün sepete atılırken ajax hatası oluştu");
+                }
+            });
+        });
+
+        $(".favoriEkle").click(function () {
+            const prdid = $(this).attr("data-prdid");
+            const catid = $(this).attr("data-catid");
+
+            $.ajax({
+                type: "POST",
+                url: "/User/FavouriteList",
+                data: { pID: prdid, cID: catid },
+                success: function (yanit) {
+                    alert(yanit);
+                },
+                error: function () {
+                    alert("ajax hata");
+                }
+            })
+
+        });
+    </script>
+}

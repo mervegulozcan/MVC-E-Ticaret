@@ -1,0 +1,277 @@
+﻿@{
+    ViewBag.Title = "Ana Sayfa";
+}
+
+@using proje_eticaret.Models;
+@section body {
+    <!-- start product Area -->
+    <div>
+        <section class="active-product-area section_gap">
+            <br />
+            <br />
+            <div class="check_title">
+                <h2 style="text-align:center">Kitaplar </h2>
+            </div>
+            <!-- kitap -->
+            <div class="single-product-slider">
+                <div class="container">
+                    <div class="row justify-content-center">
+                        <div class="col-lg-6 text-center">
+                            <div class="section-title">
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <!-- single product -->
+                        @foreach (Book b in ViewBag.bookList)
+                        {
+                            <div class="col-lg-3 col-md-6">
+                                <div class="single-product">
+                                    <img src="@String.Format("data:image/jpg;base64,{0}", b.Base64String)" width="220" height="250" />
+
+                                    <div class="product-details">
+                                        <h6>
+                                            @b.BookName
+                                        </h6>
+                                        <div class="price">
+                                            <h6>@b.Price</h6>
+
+                                        </div>
+                                        <div class="prd-bottom">
+                                            <a href="#/" class="social-info sepeteEkle" data-pri="@b.Price" data-name="@b.BookName">
+                                                <span class="ti-bag"></span>
+                                                <p class="hover-text">Sepete Ekle</p>
+                                            </a>
+                                            <a href="#/" class="social-info favoriEkle" data-prdid="@b.ProductID" data-catid="@b.CategoryID">
+                                                <span class="lnr lnr-heart"></span>
+                                                <p class="hover-text">Favori Ekle</p>
+                                            </a>
+                                            <a href="/Store/ProductBookDetail?id=@b.ProductID&name=book" class="social-info">
+                                                <span class="lnr lnr-move"></span>
+                                                <p class="hover-text">Ürün İncele</p>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        }
+
+                        <!-- single product -->
+                        <!-- single product -->
+                        <!-- single product -->
+                    </div>
+                </div>
+            </div>
+            <br />
+            <br />
+            <div class="check_title">
+                <h2 style="text-align:center">Film</h2>
+            </div>
+            <!-- film -->
+            <div class="single-product-slider">
+                <div class="container">
+                    <div class="row justify-content-center">
+                        <div class="col-lg-6 text-center">
+                            <div class="section-title">
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <!-- single product -->
+                        @foreach (Film f in ViewBag.movieList)
+                        {
+                            <div class="col-lg-3 col-md-6">
+                                <div class="single-product">
+                                    <img src="@String.Format("data:image/jpg;base64,{0}", f.Base64String)" width="220" height="250" />
+
+                                    <div class="product-details">
+                                        <h6>
+                                            @f.MovieName
+                                        </h6>
+                                        <div class="price">
+                                            <h6>@f.Price</h6>
+
+                                        </div>
+                                        <div class="prd-bottom">
+                                            <a href="#/" class="social-info sepeteEkle" data-pri="@f.Price" data-name="@f.MovieName">
+                                                <span class="ti-bag"></span>
+                                                <p class="hover-text">Sepete Ekle</p>
+                                            </a>
+                                            <a href="#/" class="social-info favoriEkle" data-prdid="@f.ProductID" data-catid="@f.CategoryID">
+                                                <span class="lnr lnr-heart"></span>
+                                                <p class="hover-text">Favori Ekle</p>
+                                            </a>
+                                            <a href="/Store/ProductFilmDetail?id=@f.ProductID&name=film" class="social-info">
+                                                <span class="lnr lnr-move"></span>
+                                                <p class="hover-text">Ürün İncele</p>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        }
+                    </div>
+                </div>
+            </div>
+            <br />
+            <br />
+            <div class="check_title">
+                <h2 style="text-align:center">Dergi</h2>
+            </div>
+            <br />
+            <!-- dergi -->
+            <div class="single-product-slider">
+                <div class="container">
+                    <div class="row justify-content-center">
+                        <div class="col-lg-6 text-center">
+                            <div class="section-title">
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <!-- single product -->
+                        @foreach (Journal j in ViewBag.journalList)
+                        {
+                            <div class="col-lg-3 col-md-6">
+                                <div class="single-product">
+                                    <img src="@String.Format("data:image/jpg;base64,{0}", j.Base64String)" width="220" height="250" />
+
+                                    <div class="product-details">
+                                        <h6>
+                                            @j.JournalName
+                                        </h6>
+                                        <div class="price">
+                                            <h6>@j.Price</h6>
+
+                                        </div>
+                                        <div class="prd-bottom">
+                                            <a href="#/" class="social-info sepeteEkle" data-pri="@j.Price" data-name="@j.JournalName">
+                                                <span class="ti-bag"></span>
+                                                <p class="hover-text">Sepete Ekle</p>
+                                            </a>
+                                            <a href="#/" class="social-info favoriEkle" data-prdid="@j.ProductID" data-catid="@j.CategoryID">
+                                                <span class="lnr lnr-heart"></span>
+                                                <p class="hover-text">Favori Ekle</p>
+                                            </a>
+                                            <a href="/Store/ProductJournalDetail?id=@j.ProductID&name=journal" class="social-info">
+                                                <span class="lnr lnr-move"></span>
+                                                <p class="hover-text">Ürün İncele</p>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        }
+                    </div>
+                </div>
+            </div>
+            <br />
+            <br />
+            <div class="check_title">
+                <h2 style="text-align:center">Albüm </h2>
+            </div>
+            <br />
+            <!-- albüm -->
+            <div class="single-product-slider">
+                <div class="container">
+                    <div class="row justify-content-center">
+                        <div class="col-lg-6 text-center">
+                            <div class="section-title">
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        @foreach (Music m in ViewBag.musicList)
+                        {
+                            <div class="col-lg-3 col-md-6">
+                                <div class="single-product">
+                                    <img src="@String.Format("data:image/jpg;base64,{0}", m.Base64String)" width="220" height="250" />
+
+                                    <div class="product-details">
+                                        <h6>
+                                            @m.AlbumName
+                                        </h6>
+                                        <div class="price">
+                                            <h6>@m.Price</h6>
+
+                                        </div>
+                                        <div class="prd-bottom">
+                                            <a href="#/" class="social-info sepeteEkle" data-pri="@m.Price" data-name="@m.AlbumName">
+                                                <span class="ti-bag"></span>
+                                                <p class="hover-text">Sepete Ekle</p>
+                                            </a>
+                                            <a href="#/" class="social-info favoriEkle" data-prdid="@m.ProductID" data-catid="@m.CategoryID">
+                                                <span class="lnr lnr-heart"></span>
+                                                <p class="hover-text">Favori Ekle</p>
+                                            </a>
+                                            <a href="/Store/ProductMusicDetail?id=@m.ProductID&name=music" class="social-info">
+                                                <span class="lnr lnr-move"></span>
+                                                <p class="hover-text">Ürün İncele</p>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        }
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+
+    <!-- end product Area -->
+}
+@section scripts{
+    <script>
+        $(".sepeteEkle").click(function () {
+            var name = $(this).attr("data-name");
+            const price = $(this).attr("data-pri");
+            $.ajax({
+                type: "POST",
+                url: "/User/AddCart",
+                data: { pName: name, pPrice: price },
+                success: function () {
+                    $.ajax({
+                        type: "GET",
+                        url: "/User/PartialCart",
+                        success: function (response) {
+                            $("#sepet").html(response);
+                            return response;
+                        },
+                        error: function () {
+                            alert("Ürün sayısını getirme sırasında hata oluştu");
+                        }
+                    });
+                },
+                error: function () {
+                    alert("Ürün sepete atılırken ajax hatası oluştu");
+                }
+            });
+        });
+
+        $(".favoriEkle").click(function () {
+            const prdid = $(this).attr("data-prdid");
+            const catid = $(this).attr("data-catid");
+
+            $.ajax({
+                type: "POST",
+                url: "/User/FavouriteList",
+                data: { pID: prdid, cID: catid },
+                success: function (yanit) {
+                    alert(yanit);
+                },
+                error: function () {
+                    alert("ajax hata");
+                }
+            })
+
+        });
+
+    </script>
+}

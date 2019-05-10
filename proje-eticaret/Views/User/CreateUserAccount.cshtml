@@ -1,0 +1,63 @@
+﻿
+@{
+    ViewBag.Title = "AddUserAccount";
+}
+@section head{
+    <link rel="stylesheet" href="/Content2/fonts/material-icon/css/material-design-iconic-font.min.css">
+    <link rel="stylesheet" href="/Content2/css/style.css">
+}
+@section body{
+    <div class="main">
+        <section class="signup">
+            <div class="container">
+                <div class="signup-content">
+                    <form action="/User/CreateUserAccount" method="POST" id="signup-form" class="signup-form">
+                        <h2 class="form-title">Hesap Oluştur</h2>
+                        <div class="form-group">
+                            <input type="text" class="form-input" name="UserName" id="inputUsername" placeholder="Kullanıcı Adı" />
+                        </div>
+                        <div class="form-group">
+                            <input type="email" class="form-input" name="Email" id="inputEmail" placeholder="Email" />
+                        </div>
+                        <div class="form-group">
+                            <input type="password" class="form-input" name="Password" id="inputPassword" placeholder="Parola" />
+                        </div>
+                        <div class="form-group">
+                            <input type="password" class="form-input" id="inputRePassword" placeholder="Parolayı Tekrarla" />
+                        </div>
+                        <div class="form-group">
+                            <input type="text" class="form-input" name="PasswordQuestion" id="inputPasswordQuestion" placeholder="Gizli Soru" />
+                        </div>
+                        <div class="form-group">
+                            <input type="text" class="form-input" name="PasswordAnswer" id="inputPasswordAnswer" placeholder="Gizli Cevap" />
+                        </div>
+                        <div class="form-group">
+                            <input type="checkbox" name="mybox" class="agree-term" />
+                            <label for="agree-term" class="label-agree-term"><span><span></span></span>Üyelik sözleşmesini onaylıyorum</label>
+                        </div>
+                        <div class="form-group">
+                             <input type="submit" class="form-submit" value="Kayıt" />
+                        </div>
+                    </form>
+                    @if (ViewBag.messageStatus != null)
+                    {
+                        if (ViewBag.messageStatus == "Başarılı")
+                        {
+                            <p style="color:green; text-align:center">@ViewBag.messageStatus</p>
+                        }
+                        else
+                        {
+                            <p style="color:red; text-align:center">@ViewBag.messageStatus</p>
+                        }
+
+                    }
+                    <p class="loginhere">
+                        Hesabınız var mı ? <a href="/User/Index" class="loginhere-link">Giriş yapın</a>
+                    </p>
+                </div>
+            </div>
+        </section>
+    </div>
+    <script src="/Content2/vendor/jquery/jquery.min.js"></script>
+    <script src="/Content2/js/main.js"></script>
+}

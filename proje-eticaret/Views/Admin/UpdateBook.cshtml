@@ -1,0 +1,88 @@
+﻿
+@{
+    ViewBag.Title = "UpdateBook";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+@using proje_eticaret.Models;
+@model Book
+
+@section body2
+{
+        <div class="row">
+            <div class="col-md-12 col-sm-12">
+                <div class="block">
+                    <div class="block-heading">
+                        <div class="main-text h2">
+                            Kitap Güncelleme Sayfası
+                        </div>
+                        <div class="block-controls">
+                            <a href="/Product/Index">
+                                <span aria-hidden="true" class="icon icon-cross icon-size-medium block-control-remove"></span>
+                            </a>
+                            <span aria-hidden="true" class="icon icon-arrow-down icon-size-medium block-control-collapse"></span>
+                        </div>
+                    </div>
+                    <div class="block-content-outer">
+                        <div class="block-content-inner">
+                            <form action="/Admin/UpdateBook" method="post" role="form" enctype="multipart/form-data">
+                                @*   Form, Post için gerekli. Action tanımladık*@
+                                @*<div class="form-group">
+                                        <label for="exampleInputEmail1">Kategori:</label>
+                                        <input  type="number" class="form-control" id="exampleInputEmail1" placeholder=""  name="CategoryID">
+                                    </div>*@
+
+                                <div class="form-group">
+                                    <label for="exampleInputEmail1">Kitap Adı:</label>
+                                    <input type="text" class="form-control" id="exampleInputEmail1" placeholder="Kitap adı giriniz" value="@Model.BookName" name="BookName">
+                                </div>
+
+                                <div class="form-group">
+                                    <label for="exampleInputEmail1">Yazar:</label>
+                                    <input type="text" class="form-control" id="exampleInputEmail1" placeholder="Yazar adı giriniz" value="@Model.Author" name="Author">
+                                </div>
+                                <div class="form-group">
+                                    <label for="exampleInputEmail1">Yayın Evi:</label>
+                                    <input type="text" class="form-control" id="exampleInputEmail1" placeholder="Yayınevi adı giriniz" value="@Model.Publisher" name="Publisher">
+                                </div>
+                                <div class="form-group">
+                                    <label for="exampleInputEmail1">Yayın Tarihi:</label>
+                                    <input type="datetime" class="form-control" id="exampleInputEmail1" placeholder="Yayın tarihi giriniz" value="@Model.RelaseDate" name="RelaseDate">
+                                </div>
+                                <div class="form-group">
+                                    <label for="exampleInputEmail1">ISBN:</label>
+                                    <input type="text" class="form-control" id="exampleInputEmail1" placeholder="ISBN giriniz" value="@Model.ISBN" name="ISBN">
+                                </div>
+                                <div class="form-group">
+                                    <label for="exampleInputEmail1">Tür:</label>
+                                    <input type="text" class="form-control" id="exampleInputEmail1" placeholder="Tür giriniz" value="@Model.Genre" name="Genre">
+                                </div>
+                                <div class="form-group">
+                                    <label for="exampleInputEmail1">Stok:</label>
+                                    <input type="number" class="form-control" id="exampleInputEmail1" placeholder="Stok giriniz" value="@Model.Stock" name="Stock">
+                                </div>
+                                <div class="form-group">
+                                    <label for="exampleInputEmail1">Fiyat:</label>
+                                    <input type="text" class="form-control" id="exampleInputEmail1" placeholder="Fiyat giriniz" value="@Model.Price" name="Price">
+                                </div>
+                                <div class="form-group">
+                                    <label for="exampleInputEmail1">Açıklama:</label>
+                                    <input type="text" class="form-control" id="exampleInputEmail1" placeholder="Açıklama giriniz" value="@Model.Description" name="Description">
+                                </div>
+
+                                <div class="form-group">
+                                    <label for="input-demo-g">Fotoğraf seçiniz.</label>
+                                    <input type="file" id="input-demo-g" name="Picture">
+                                    <p class="help-block">Kategori için fotoğraf yükleyiniz.</p>
+                                </div>
+
+                                <input type="Hidden" name="ProductID" value="@Model.ProductID" />
+                                <button type="submit" class="btn btn-primary">Güncelle</button>
+                                <!--Submit içinde bulunduğu formun actionında hangi adres ve method tipi belirtilmişse eğer method post ise formun içindeki verileri post eder.-->
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+}
+

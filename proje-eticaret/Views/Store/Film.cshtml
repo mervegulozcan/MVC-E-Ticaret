@@ -1,0 +1,112 @@
+﻿
+@{
+    ViewBag.Title = "Film";
+}
+@using proje_eticaret.Models;
+@model List<Film>
+@section body{
+    <!-- Start Banner Area -->
+    <section class="banner-area organic-breadcrumb">
+        <div class="container">
+            <div class="breadcrumb-banner d-flex flex-wrap align-items-center justify-content-end">
+                <div class="col-first">
+                    <h1>Filmler</h1>
+                    <nav class="d-flex align-items-center">
+                        <a href="/Home/Index">Ana Sayfa<span class="lnr lnr-arrow-right"></span></a>
+                        <a href="">Mağaza<span class="lnr lnr-arrow-right"></span></a>
+                        <a href="/Store/Film">Film Kategorileri</a>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- End Banner Area -->
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-3 col-lg-4 col-md-5">
+                <div class="sidebar-categories">
+                    <div class="head">Kategori Listesi</div>
+                    <ul class="main-categories">
+                        <li class="navigation-area"><a href="/Store/Film?Tur=Aksiyon" class="text">Aksiyon<span class="text"></span></a></li>
+                        <li class="navigation-area"><a href="/Store/Film?Tur=Bilim" class="text">Bilim Kurgu<span class="text"></span></a></li>
+                        <li class="navigation-area"><a href="/Store/Film?Tur=Fantastik" class="text">Fantastik<span class="text"></span></a></li>
+                        <li class="navigation-area"><a href="/Store/Film?Tur=Komedi" class="text">Komedi<span class="text"></span></a></li>
+                    </ul>
+                </div>
+
+            </div>
+            <div class="col-xl-9 col-lg-8 col-md-7">
+                <!-- Start Best Seller -->
+                <section class="lattest-product-area pb-40 category-list">
+                    <div class="row">
+                        <!-- single product -->
+                        @foreach (Film f in Model)
+                        {
+                            <div class="col-lg-4 col-md-6">
+                                <div class="single-product">
+                                    <img src="@String.Format("data:image/jpg;base64,{0}", f.Base64String)" width="220" height="250" />
+                                    <div class="product-details">
+                                        <h6>
+                                            @f.MovieName
+                                        </h6>
+                                        <div class="price">
+                                            <h6>@f.Price Tl</h6>
+
+                                        </div>
+
+                                        <div class="prd-bottom">
+                                            <a href="#/" class="social-info sepeteEkle" data-pri="@f.Price" data-name="@f.MovieName">
+                                                <span class="ti-bag"></span>
+                                                <p class="hover-text">Sepete Ekle</p>
+                                            </a>
+                                            <a href="" class="social-info">
+                                                <span class="lnr lnr-heart"></span>
+                                                <p class="hover-text">Favorim</p>
+                                            </a>
+                                            <a href="/Store/ProductFilmDetail?id=@f.ProductID&name=film" class="social-info">
+                                                <span class="lnr lnr-move"></span>
+                                                <p class="hover-text">Ürün İncele</p>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        }
+                    </div>
+                </section>
+                <!-- End Best Seller -->
+            </div>
+        </div>
+    </div>
+}
+@section scripts{
+    <script>
+        $(".sepeteEkle").click(function () {
+            var name = $(this).attr("data-name");
+            const price = $(this).attr("data-pri");
+
+            $.ajax({
+                type: "POST",
+                url: "/User/AddCart",
+                data: { pName: name, pPrice: price },
+                success: function () {
+                    $.ajax({
+                        type: "GET",
+                        url: "/User/PartialCart",
+                        success: function (response) {
+                            $("#sepet").html(response);
+                            return response;
+                        },
+                        error: function () {
+                            alert("Ürün sayısını getirme sırasında hata oluştu");
+                        }
+                    });
+                },
+                error: function () {
+                    alert("Ürün sepete atılırken ajax hatası oluştu");
+                }
+            });
+        });
+    </script>
+}
+

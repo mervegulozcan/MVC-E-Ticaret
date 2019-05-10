@@ -1,0 +1,730 @@
+C:\Users\Ben\source\repos\proje-eticaret\proje-eticaret\bin\proje-eticaret.dll.config
+C:\Users\Ben\source\repos\proje-eticaret\proje-eticaret\bin\proje-eticaret.dll
+C:\Users\Ben\source\repos\proje-eticaret\proje-eticaret\bin\proje-eticaret.pdb
+C:\Users\Ben\source\repos\proje-eticaret\proje-eticaret\bin\roslyn\csc.exe
+C:\Users\Ben\source\repos\proje-eticaret\proje-eticaret\bin\roslyn\csc.exe.config
+C:\Users\Ben\source\repos\proje-eticaret\proje-eticaret\bin\roslyn\csc.rsp
+C:\Users\Ben\source\repos\proje-eticaret\proje-eticaret\bin\roslyn\csi.exe
+C:\Users\Ben\source\repos\proje-eticaret\proje-eticaret\bin\roslyn\csi.exe.config
+C:\Users\Ben\source\repos\proje-eticaret\proje-eticaret\bin\roslyn\csi.rsp
+C:\Users\Ben\source\repos\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ben\source\repos\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ben\source\repos\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ben\source\repos\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ben\source\repos\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ben\source\repos\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ben\source\repos\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ben\source\repos\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ben\source\repos\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ben\source\repos\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ben\source\repos\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ben\source\repos\proje-eticaret\proje-eticaret\bin\roslyn\System.AppContext.dll
+C:\Users\Ben\source\repos\proje-eticaret\proje-eticaret\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ben\source\repos\proje-eticaret\proje-eticaret\bin\roslyn\System.Console.dll
+C:\Users\Ben\source\repos\proje-eticaret\proje-eticaret\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ben\source\repos\proje-eticaret\proje-eticaret\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ben\source\repos\proje-eticaret\proje-eticaret\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ben\source\repos\proje-eticaret\proje-eticaret\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ben\source\repos\proje-eticaret\proje-eticaret\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ben\source\repos\proje-eticaret\proje-eticaret\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Ben\source\repos\proje-eticaret\proje-eticaret\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Ben\source\repos\proje-eticaret\proje-eticaret\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ben\source\repos\proje-eticaret\proje-eticaret\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Ben\source\repos\proje-eticaret\proje-eticaret\bin\roslyn\System.Security.Claims.dll
+C:\Users\Ben\source\repos\proje-eticaret\proje-eticaret\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ben\source\repos\proje-eticaret\proje-eticaret\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ben\source\repos\proje-eticaret\proje-eticaret\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ben\source\repos\proje-eticaret\proje-eticaret\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ben\source\repos\proje-eticaret\proje-eticaret\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Ben\source\repos\proje-eticaret\proje-eticaret\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ben\source\repos\proje-eticaret\proje-eticaret\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ben\source\repos\proje-eticaret\proje-eticaret\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ben\source\repos\proje-eticaret\proje-eticaret\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ben\source\repos\proje-eticaret\proje-eticaret\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ben\source\repos\proje-eticaret\proje-eticaret\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ben\source\repos\proje-eticaret\proje-eticaret\bin\roslyn\vbc.exe
+C:\Users\Ben\source\repos\proje-eticaret\proje-eticaret\bin\roslyn\vbc.exe.config
+C:\Users\Ben\source\repos\proje-eticaret\proje-eticaret\bin\roslyn\vbc.rsp
+C:\Users\Ben\source\repos\proje-eticaret\proje-eticaret\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ben\source\repos\proje-eticaret\proje-eticaret\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ben\source\repos\proje-eticaret\proje-eticaret\bin\EntityFramework.dll
+C:\Users\Ben\source\repos\proje-eticaret\proje-eticaret\bin\EntityFramework.SqlServer.dll
+C:\Users\Ben\source\repos\proje-eticaret\proje-eticaret\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ben\source\repos\proje-eticaret\proje-eticaret\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ben\source\repos\proje-eticaret\proje-eticaret\bin\System.Web.Helpers.dll
+C:\Users\Ben\source\repos\proje-eticaret\proje-eticaret\bin\System.Web.Mvc.dll
+C:\Users\Ben\source\repos\proje-eticaret\proje-eticaret\bin\System.Web.Razor.dll
+C:\Users\Ben\source\repos\proje-eticaret\proje-eticaret\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Ben\source\repos\proje-eticaret\proje-eticaret\bin\System.Web.Webpages.dll
+C:\Users\Ben\source\repos\proje-eticaret\proje-eticaret\bin\System.Web.Webpages.Razor.dll
+C:\Users\Ben\source\repos\proje-eticaret\proje-eticaret\bin\EntityFramework.xml
+C:\Users\Ben\source\repos\proje-eticaret\proje-eticaret\bin\EntityFramework.SqlServer.xml
+C:\Users\Ben\source\repos\proje-eticaret\proje-eticaret\bin\System.Web.Razor.xml
+C:\Users\Ben\source\repos\proje-eticaret\proje-eticaret\bin\System.Web.Webpages.xml
+C:\Users\Ben\source\repos\proje-eticaret\proje-eticaret\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Ben\source\repos\proje-eticaret\proje-eticaret\bin\System.Web.Webpages.Razor.xml
+C:\Users\Ben\source\repos\proje-eticaret\proje-eticaret\bin\System.Web.Helpers.xml
+C:\Users\Ben\source\repos\proje-eticaret\proje-eticaret\bin\System.Web.Mvc.xml
+C:\Users\Ben\source\repos\proje-eticaret\proje-eticaret\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ben\source\repos\proje-eticaret\proje-eticaret\obj\Debug\proje-eticaret.csprojAssemblyReference.cache
+C:\Users\Ben\source\repos\proje-eticaret\proje-eticaret\obj\Debug\proje-eticaret.csproj.CoreCompileInputs.cache
+C:\Users\Ben\source\repos\proje-eticaret\proje-eticaret\obj\Debug\proje-eticaret.csproj.CopyComplete
+C:\Users\Ben\source\repos\proje-eticaret\proje-eticaret\obj\Debug\proje-eticaret.dll
+C:\Users\Ben\source\repos\proje-eticaret\proje-eticaret\obj\Debug\proje-eticaret.pdb
+C:\Users\Section2\Desktop\ymo 1\onur\proje-eticaret\proje-eticaret\bin\proje-eticaret.dll.config
+C:\Users\Section2\Desktop\ymo 1\onur\proje-eticaret\proje-eticaret\bin\proje-eticaret.dll
+C:\Users\Section2\Desktop\ymo 1\onur\proje-eticaret\proje-eticaret\bin\proje-eticaret.pdb
+C:\Users\Section2\Desktop\ymo 1\onur\proje-eticaret\proje-eticaret\bin\roslyn\csc.exe
+C:\Users\Section2\Desktop\ymo 1\onur\proje-eticaret\proje-eticaret\bin\roslyn\csc.exe.config
+C:\Users\Section2\Desktop\ymo 1\onur\proje-eticaret\proje-eticaret\bin\roslyn\csc.rsp
+C:\Users\Section2\Desktop\ymo 1\onur\proje-eticaret\proje-eticaret\bin\roslyn\csi.exe
+C:\Users\Section2\Desktop\ymo 1\onur\proje-eticaret\proje-eticaret\bin\roslyn\csi.exe.config
+C:\Users\Section2\Desktop\ymo 1\onur\proje-eticaret\proje-eticaret\bin\roslyn\csi.rsp
+C:\Users\Section2\Desktop\ymo 1\onur\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Section2\Desktop\ymo 1\onur\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Section2\Desktop\ymo 1\onur\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Section2\Desktop\ymo 1\onur\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Section2\Desktop\ymo 1\onur\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Section2\Desktop\ymo 1\onur\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Section2\Desktop\ymo 1\onur\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Section2\Desktop\ymo 1\onur\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Section2\Desktop\ymo 1\onur\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Section2\Desktop\ymo 1\onur\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Section2\Desktop\ymo 1\onur\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Section2\Desktop\ymo 1\onur\proje-eticaret\proje-eticaret\bin\roslyn\System.AppContext.dll
+C:\Users\Section2\Desktop\ymo 1\onur\proje-eticaret\proje-eticaret\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Section2\Desktop\ymo 1\onur\proje-eticaret\proje-eticaret\bin\roslyn\System.Console.dll
+C:\Users\Section2\Desktop\ymo 1\onur\proje-eticaret\proje-eticaret\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Section2\Desktop\ymo 1\onur\proje-eticaret\proje-eticaret\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Section2\Desktop\ymo 1\onur\proje-eticaret\proje-eticaret\bin\roslyn\System.IO.Compression.dll
+C:\Users\Section2\Desktop\ymo 1\onur\proje-eticaret\proje-eticaret\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Section2\Desktop\ymo 1\onur\proje-eticaret\proje-eticaret\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Section2\Desktop\ymo 1\onur\proje-eticaret\proje-eticaret\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Section2\Desktop\ymo 1\onur\proje-eticaret\proje-eticaret\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Section2\Desktop\ymo 1\onur\proje-eticaret\proje-eticaret\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Section2\Desktop\ymo 1\onur\proje-eticaret\proje-eticaret\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Section2\Desktop\ymo 1\onur\proje-eticaret\proje-eticaret\bin\roslyn\System.Security.Claims.dll
+C:\Users\Section2\Desktop\ymo 1\onur\proje-eticaret\proje-eticaret\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Section2\Desktop\ymo 1\onur\proje-eticaret\proje-eticaret\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Section2\Desktop\ymo 1\onur\proje-eticaret\proje-eticaret\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Section2\Desktop\ymo 1\onur\proje-eticaret\proje-eticaret\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Section2\Desktop\ymo 1\onur\proje-eticaret\proje-eticaret\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Section2\Desktop\ymo 1\onur\proje-eticaret\proje-eticaret\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Section2\Desktop\ymo 1\onur\proje-eticaret\proje-eticaret\bin\roslyn\System.ValueTuple.dll
+C:\Users\Section2\Desktop\ymo 1\onur\proje-eticaret\proje-eticaret\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Section2\Desktop\ymo 1\onur\proje-eticaret\proje-eticaret\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Section2\Desktop\ymo 1\onur\proje-eticaret\proje-eticaret\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Section2\Desktop\ymo 1\onur\proje-eticaret\proje-eticaret\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Section2\Desktop\ymo 1\onur\proje-eticaret\proje-eticaret\bin\roslyn\vbc.exe
+C:\Users\Section2\Desktop\ymo 1\onur\proje-eticaret\proje-eticaret\bin\roslyn\vbc.exe.config
+C:\Users\Section2\Desktop\ymo 1\onur\proje-eticaret\proje-eticaret\bin\roslyn\vbc.rsp
+C:\Users\Section2\Desktop\ymo 1\onur\proje-eticaret\proje-eticaret\bin\roslyn\VBCSCompiler.exe
+C:\Users\Section2\Desktop\ymo 1\onur\proje-eticaret\proje-eticaret\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Section2\Desktop\ymo 1\onur\proje-eticaret\proje-eticaret\bin\EntityFramework.dll
+C:\Users\Section2\Desktop\ymo 1\onur\proje-eticaret\proje-eticaret\bin\EntityFramework.SqlServer.dll
+C:\Users\Section2\Desktop\ymo 1\onur\proje-eticaret\proje-eticaret\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Section2\Desktop\ymo 1\onur\proje-eticaret\proje-eticaret\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Section2\Desktop\ymo 1\onur\proje-eticaret\proje-eticaret\bin\System.Web.Helpers.dll
+C:\Users\Section2\Desktop\ymo 1\onur\proje-eticaret\proje-eticaret\bin\System.Web.Mvc.dll
+C:\Users\Section2\Desktop\ymo 1\onur\proje-eticaret\proje-eticaret\bin\System.Web.Razor.dll
+C:\Users\Section2\Desktop\ymo 1\onur\proje-eticaret\proje-eticaret\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Section2\Desktop\ymo 1\onur\proje-eticaret\proje-eticaret\bin\System.Web.Webpages.dll
+C:\Users\Section2\Desktop\ymo 1\onur\proje-eticaret\proje-eticaret\bin\System.Web.Webpages.Razor.dll
+C:\Users\Section2\Desktop\ymo 1\onur\proje-eticaret\proje-eticaret\bin\EntityFramework.xml
+C:\Users\Section2\Desktop\ymo 1\onur\proje-eticaret\proje-eticaret\bin\EntityFramework.SqlServer.xml
+C:\Users\Section2\Desktop\ymo 1\onur\proje-eticaret\proje-eticaret\bin\System.Web.Razor.xml
+C:\Users\Section2\Desktop\ymo 1\onur\proje-eticaret\proje-eticaret\bin\System.Web.Webpages.xml
+C:\Users\Section2\Desktop\ymo 1\onur\proje-eticaret\proje-eticaret\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Section2\Desktop\ymo 1\onur\proje-eticaret\proje-eticaret\bin\System.Web.Webpages.Razor.xml
+C:\Users\Section2\Desktop\ymo 1\onur\proje-eticaret\proje-eticaret\bin\System.Web.Helpers.xml
+C:\Users\Section2\Desktop\ymo 1\onur\proje-eticaret\proje-eticaret\bin\System.Web.Mvc.xml
+C:\Users\Section2\Desktop\ymo 1\onur\proje-eticaret\proje-eticaret\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Section2\Desktop\ymo 1\onur\proje-eticaret\proje-eticaret\obj\Debug\proje-eticaret.csprojAssemblyReference.cache
+C:\Users\Section2\Desktop\ymo 1\onur\proje-eticaret\proje-eticaret\obj\Debug\proje-eticaret.csproj.CoreCompileInputs.cache
+C:\Users\Section2\Desktop\ymo 1\onur\proje-eticaret\proje-eticaret\obj\Debug\proje-eticaret.csproj.CopyComplete
+C:\Users\Section2\Desktop\ymo 1\onur\proje-eticaret\proje-eticaret\obj\Debug\proje-eticaret.dll
+C:\Users\Section2\Desktop\ymo 1\onur\proje-eticaret\proje-eticaret\obj\Debug\proje-eticaret.pdb
+C:\Users\Ben\Desktop\ymo 2\onur\proje-eticaret\proje-eticaret\bin\proje-eticaret.dll.config
+C:\Users\Ben\Desktop\ymo 2\onur\proje-eticaret\proje-eticaret\bin\proje-eticaret.dll
+C:\Users\Ben\Desktop\ymo 2\onur\proje-eticaret\proje-eticaret\bin\proje-eticaret.pdb
+C:\Users\Ben\Desktop\ymo 2\onur\proje-eticaret\proje-eticaret\bin\roslyn\csc.exe
+C:\Users\Ben\Desktop\ymo 2\onur\proje-eticaret\proje-eticaret\bin\roslyn\csc.exe.config
+C:\Users\Ben\Desktop\ymo 2\onur\proje-eticaret\proje-eticaret\bin\roslyn\csc.rsp
+C:\Users\Ben\Desktop\ymo 2\onur\proje-eticaret\proje-eticaret\bin\roslyn\csi.exe
+C:\Users\Ben\Desktop\ymo 2\onur\proje-eticaret\proje-eticaret\bin\roslyn\csi.exe.config
+C:\Users\Ben\Desktop\ymo 2\onur\proje-eticaret\proje-eticaret\bin\roslyn\csi.rsp
+C:\Users\Ben\Desktop\ymo 2\onur\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ben\Desktop\ymo 2\onur\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ben\Desktop\ymo 2\onur\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ben\Desktop\ymo 2\onur\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ben\Desktop\ymo 2\onur\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ben\Desktop\ymo 2\onur\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ben\Desktop\ymo 2\onur\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ben\Desktop\ymo 2\onur\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ben\Desktop\ymo 2\onur\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ben\Desktop\ymo 2\onur\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ben\Desktop\ymo 2\onur\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ben\Desktop\ymo 2\onur\proje-eticaret\proje-eticaret\bin\roslyn\System.AppContext.dll
+C:\Users\Ben\Desktop\ymo 2\onur\proje-eticaret\proje-eticaret\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ben\Desktop\ymo 2\onur\proje-eticaret\proje-eticaret\bin\roslyn\System.Console.dll
+C:\Users\Ben\Desktop\ymo 2\onur\proje-eticaret\proje-eticaret\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ben\Desktop\ymo 2\onur\proje-eticaret\proje-eticaret\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ben\Desktop\ymo 2\onur\proje-eticaret\proje-eticaret\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ben\Desktop\ymo 2\onur\proje-eticaret\proje-eticaret\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ben\Desktop\ymo 2\onur\proje-eticaret\proje-eticaret\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ben\Desktop\ymo 2\onur\proje-eticaret\proje-eticaret\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Ben\Desktop\ymo 2\onur\proje-eticaret\proje-eticaret\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Ben\Desktop\ymo 2\onur\proje-eticaret\proje-eticaret\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ben\Desktop\ymo 2\onur\proje-eticaret\proje-eticaret\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Ben\Desktop\ymo 2\onur\proje-eticaret\proje-eticaret\bin\roslyn\System.Security.Claims.dll
+C:\Users\Ben\Desktop\ymo 2\onur\proje-eticaret\proje-eticaret\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ben\Desktop\ymo 2\onur\proje-eticaret\proje-eticaret\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ben\Desktop\ymo 2\onur\proje-eticaret\proje-eticaret\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ben\Desktop\ymo 2\onur\proje-eticaret\proje-eticaret\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ben\Desktop\ymo 2\onur\proje-eticaret\proje-eticaret\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Ben\Desktop\ymo 2\onur\proje-eticaret\proje-eticaret\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ben\Desktop\ymo 2\onur\proje-eticaret\proje-eticaret\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ben\Desktop\ymo 2\onur\proje-eticaret\proje-eticaret\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ben\Desktop\ymo 2\onur\proje-eticaret\proje-eticaret\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ben\Desktop\ymo 2\onur\proje-eticaret\proje-eticaret\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ben\Desktop\ymo 2\onur\proje-eticaret\proje-eticaret\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ben\Desktop\ymo 2\onur\proje-eticaret\proje-eticaret\bin\roslyn\vbc.exe
+C:\Users\Ben\Desktop\ymo 2\onur\proje-eticaret\proje-eticaret\bin\roslyn\vbc.exe.config
+C:\Users\Ben\Desktop\ymo 2\onur\proje-eticaret\proje-eticaret\bin\roslyn\vbc.rsp
+C:\Users\Ben\Desktop\ymo 2\onur\proje-eticaret\proje-eticaret\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ben\Desktop\ymo 2\onur\proje-eticaret\proje-eticaret\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ben\Desktop\ymo 2\onur\proje-eticaret\proje-eticaret\bin\EntityFramework.dll
+C:\Users\Ben\Desktop\ymo 2\onur\proje-eticaret\proje-eticaret\bin\EntityFramework.SqlServer.dll
+C:\Users\Ben\Desktop\ymo 2\onur\proje-eticaret\proje-eticaret\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ben\Desktop\ymo 2\onur\proje-eticaret\proje-eticaret\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ben\Desktop\ymo 2\onur\proje-eticaret\proje-eticaret\bin\System.Web.Helpers.dll
+C:\Users\Ben\Desktop\ymo 2\onur\proje-eticaret\proje-eticaret\bin\System.Web.Mvc.dll
+C:\Users\Ben\Desktop\ymo 2\onur\proje-eticaret\proje-eticaret\bin\System.Web.Razor.dll
+C:\Users\Ben\Desktop\ymo 2\onur\proje-eticaret\proje-eticaret\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Ben\Desktop\ymo 2\onur\proje-eticaret\proje-eticaret\bin\System.Web.Webpages.dll
+C:\Users\Ben\Desktop\ymo 2\onur\proje-eticaret\proje-eticaret\bin\System.Web.Webpages.Razor.dll
+C:\Users\Ben\Desktop\ymo 2\onur\proje-eticaret\proje-eticaret\bin\EntityFramework.xml
+C:\Users\Ben\Desktop\ymo 2\onur\proje-eticaret\proje-eticaret\bin\EntityFramework.SqlServer.xml
+C:\Users\Ben\Desktop\ymo 2\onur\proje-eticaret\proje-eticaret\bin\System.Web.Razor.xml
+C:\Users\Ben\Desktop\ymo 2\onur\proje-eticaret\proje-eticaret\bin\System.Web.Webpages.xml
+C:\Users\Ben\Desktop\ymo 2\onur\proje-eticaret\proje-eticaret\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Ben\Desktop\ymo 2\onur\proje-eticaret\proje-eticaret\bin\System.Web.Webpages.Razor.xml
+C:\Users\Ben\Desktop\ymo 2\onur\proje-eticaret\proje-eticaret\bin\System.Web.Helpers.xml
+C:\Users\Ben\Desktop\ymo 2\onur\proje-eticaret\proje-eticaret\bin\System.Web.Mvc.xml
+C:\Users\Ben\Desktop\ymo 2\onur\proje-eticaret\proje-eticaret\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ben\Desktop\ymo 2\onur\proje-eticaret\proje-eticaret\obj\Debug\proje-eticaret.csprojAssemblyReference.cache
+C:\Users\Ben\Desktop\ymo 2\onur\proje-eticaret\proje-eticaret\obj\Debug\proje-eticaret.csproj.CoreCompileInputs.cache
+C:\Users\Ben\Desktop\ymo 2\onur\proje-eticaret\proje-eticaret\obj\Debug\proje-eticaret.csproj.CopyComplete
+C:\Users\Ben\Desktop\ymo 2\onur\proje-eticaret\proje-eticaret\obj\Debug\proje-eticaret.dll
+C:\Users\Ben\Desktop\ymo 2\onur\proje-eticaret\proje-eticaret\obj\Debug\proje-eticaret.pdb
+C:\Users\yusuf\Desktop\proje-eticaret\proje-eticaret\bin\proje-eticaret.dll.config
+C:\Users\yusuf\Desktop\proje-eticaret\proje-eticaret\bin\proje-eticaret.dll
+C:\Users\yusuf\Desktop\proje-eticaret\proje-eticaret\bin\proje-eticaret.pdb
+C:\Users\yusuf\Desktop\proje-eticaret\proje-eticaret\bin\roslyn\csc.exe
+C:\Users\yusuf\Desktop\proje-eticaret\proje-eticaret\bin\roslyn\csc.exe.config
+C:\Users\yusuf\Desktop\proje-eticaret\proje-eticaret\bin\roslyn\csc.rsp
+C:\Users\yusuf\Desktop\proje-eticaret\proje-eticaret\bin\roslyn\csi.exe
+C:\Users\yusuf\Desktop\proje-eticaret\proje-eticaret\bin\roslyn\csi.exe.config
+C:\Users\yusuf\Desktop\proje-eticaret\proje-eticaret\bin\roslyn\csi.rsp
+C:\Users\yusuf\Desktop\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\yusuf\Desktop\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\yusuf\Desktop\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\yusuf\Desktop\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\yusuf\Desktop\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\yusuf\Desktop\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\yusuf\Desktop\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\yusuf\Desktop\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\yusuf\Desktop\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\yusuf\Desktop\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\yusuf\Desktop\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\yusuf\Desktop\proje-eticaret\proje-eticaret\bin\roslyn\System.AppContext.dll
+C:\Users\yusuf\Desktop\proje-eticaret\proje-eticaret\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\yusuf\Desktop\proje-eticaret\proje-eticaret\bin\roslyn\System.Console.dll
+C:\Users\yusuf\Desktop\proje-eticaret\proje-eticaret\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\yusuf\Desktop\proje-eticaret\proje-eticaret\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\yusuf\Desktop\proje-eticaret\proje-eticaret\bin\roslyn\System.IO.Compression.dll
+C:\Users\yusuf\Desktop\proje-eticaret\proje-eticaret\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\yusuf\Desktop\proje-eticaret\proje-eticaret\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\yusuf\Desktop\proje-eticaret\proje-eticaret\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\yusuf\Desktop\proje-eticaret\proje-eticaret\bin\roslyn\System.IO.Pipes.dll
+C:\Users\yusuf\Desktop\proje-eticaret\proje-eticaret\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\yusuf\Desktop\proje-eticaret\proje-eticaret\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\yusuf\Desktop\proje-eticaret\proje-eticaret\bin\roslyn\System.Security.Claims.dll
+C:\Users\yusuf\Desktop\proje-eticaret\proje-eticaret\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\yusuf\Desktop\proje-eticaret\proje-eticaret\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\yusuf\Desktop\proje-eticaret\proje-eticaret\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\yusuf\Desktop\proje-eticaret\proje-eticaret\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\yusuf\Desktop\proje-eticaret\proje-eticaret\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\yusuf\Desktop\proje-eticaret\proje-eticaret\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\yusuf\Desktop\proje-eticaret\proje-eticaret\bin\roslyn\System.ValueTuple.dll
+C:\Users\yusuf\Desktop\proje-eticaret\proje-eticaret\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\yusuf\Desktop\proje-eticaret\proje-eticaret\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\yusuf\Desktop\proje-eticaret\proje-eticaret\bin\roslyn\System.Xml.XPath.dll
+C:\Users\yusuf\Desktop\proje-eticaret\proje-eticaret\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\yusuf\Desktop\proje-eticaret\proje-eticaret\bin\roslyn\vbc.exe
+C:\Users\yusuf\Desktop\proje-eticaret\proje-eticaret\bin\roslyn\vbc.exe.config
+C:\Users\yusuf\Desktop\proje-eticaret\proje-eticaret\bin\roslyn\vbc.rsp
+C:\Users\yusuf\Desktop\proje-eticaret\proje-eticaret\bin\roslyn\VBCSCompiler.exe
+C:\Users\yusuf\Desktop\proje-eticaret\proje-eticaret\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\yusuf\Desktop\proje-eticaret\proje-eticaret\bin\EntityFramework.dll
+C:\Users\yusuf\Desktop\proje-eticaret\proje-eticaret\bin\EntityFramework.SqlServer.dll
+C:\Users\yusuf\Desktop\proje-eticaret\proje-eticaret\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\yusuf\Desktop\proje-eticaret\proje-eticaret\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\yusuf\Desktop\proje-eticaret\proje-eticaret\bin\System.Web.Helpers.dll
+C:\Users\yusuf\Desktop\proje-eticaret\proje-eticaret\bin\System.Web.Mvc.dll
+C:\Users\yusuf\Desktop\proje-eticaret\proje-eticaret\bin\System.Web.Razor.dll
+C:\Users\yusuf\Desktop\proje-eticaret\proje-eticaret\bin\System.Web.Webpages.Deployment.dll
+C:\Users\yusuf\Desktop\proje-eticaret\proje-eticaret\bin\System.Web.Webpages.dll
+C:\Users\yusuf\Desktop\proje-eticaret\proje-eticaret\bin\System.Web.Webpages.Razor.dll
+C:\Users\yusuf\Desktop\proje-eticaret\proje-eticaret\bin\EntityFramework.xml
+C:\Users\yusuf\Desktop\proje-eticaret\proje-eticaret\bin\EntityFramework.SqlServer.xml
+C:\Users\yusuf\Desktop\proje-eticaret\proje-eticaret\bin\System.Web.Razor.xml
+C:\Users\yusuf\Desktop\proje-eticaret\proje-eticaret\bin\System.Web.Webpages.xml
+C:\Users\yusuf\Desktop\proje-eticaret\proje-eticaret\bin\System.Web.Webpages.Deployment.xml
+C:\Users\yusuf\Desktop\proje-eticaret\proje-eticaret\bin\System.Web.Webpages.Razor.xml
+C:\Users\yusuf\Desktop\proje-eticaret\proje-eticaret\bin\System.Web.Helpers.xml
+C:\Users\yusuf\Desktop\proje-eticaret\proje-eticaret\bin\System.Web.Mvc.xml
+C:\Users\yusuf\Desktop\proje-eticaret\proje-eticaret\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\yusuf\Desktop\proje-eticaret\proje-eticaret\obj\Debug\proje-eticaret.csprojAssemblyReference.cache
+C:\Users\yusuf\Desktop\proje-eticaret\proje-eticaret\obj\Debug\proje-eticaret.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\Desktop\proje-eticaret\proje-eticaret\obj\Debug\proje-eticaret.csproj.CopyComplete
+C:\Users\yusuf\Desktop\proje-eticaret\proje-eticaret\obj\Debug\proje-eticaret.dll
+C:\Users\yusuf\Desktop\proje-eticaret\proje-eticaret\obj\Debug\proje-eticaret.pdb
+C:\Users\yusuf\Desktop\Proje\proje-eticaret\proje-eticaret\bin\proje-eticaret.dll.config
+C:\Users\yusuf\Desktop\Proje\proje-eticaret\proje-eticaret\bin\proje-eticaret.dll
+C:\Users\yusuf\Desktop\Proje\proje-eticaret\proje-eticaret\bin\proje-eticaret.pdb
+C:\Users\yusuf\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\csc.exe
+C:\Users\yusuf\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\csc.exe.config
+C:\Users\yusuf\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\csc.rsp
+C:\Users\yusuf\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\csi.exe
+C:\Users\yusuf\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\csi.exe.config
+C:\Users\yusuf\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\csi.rsp
+C:\Users\yusuf\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\yusuf\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\yusuf\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\yusuf\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\yusuf\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\yusuf\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\yusuf\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\yusuf\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\yusuf\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\yusuf\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\yusuf\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\yusuf\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\System.AppContext.dll
+C:\Users\yusuf\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\yusuf\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\System.Console.dll
+C:\Users\yusuf\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\yusuf\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\yusuf\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\System.IO.Compression.dll
+C:\Users\yusuf\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\yusuf\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\yusuf\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\yusuf\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\System.IO.Pipes.dll
+C:\Users\yusuf\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\yusuf\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\yusuf\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\System.Security.Claims.dll
+C:\Users\yusuf\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\yusuf\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\yusuf\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\yusuf\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\yusuf\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\yusuf\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\yusuf\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\System.ValueTuple.dll
+C:\Users\yusuf\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\yusuf\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\yusuf\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\System.Xml.XPath.dll
+C:\Users\yusuf\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\yusuf\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\vbc.exe
+C:\Users\yusuf\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\vbc.exe.config
+C:\Users\yusuf\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\vbc.rsp
+C:\Users\yusuf\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\VBCSCompiler.exe
+C:\Users\yusuf\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\yusuf\Desktop\Proje\proje-eticaret\proje-eticaret\bin\EntityFramework.dll
+C:\Users\yusuf\Desktop\Proje\proje-eticaret\proje-eticaret\bin\EntityFramework.SqlServer.dll
+C:\Users\yusuf\Desktop\Proje\proje-eticaret\proje-eticaret\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\yusuf\Desktop\Proje\proje-eticaret\proje-eticaret\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\yusuf\Desktop\Proje\proje-eticaret\proje-eticaret\bin\System.Web.Helpers.dll
+C:\Users\yusuf\Desktop\Proje\proje-eticaret\proje-eticaret\bin\System.Web.Mvc.dll
+C:\Users\yusuf\Desktop\Proje\proje-eticaret\proje-eticaret\bin\System.Web.Razor.dll
+C:\Users\yusuf\Desktop\Proje\proje-eticaret\proje-eticaret\bin\System.Web.Webpages.Deployment.dll
+C:\Users\yusuf\Desktop\Proje\proje-eticaret\proje-eticaret\bin\System.Web.Webpages.dll
+C:\Users\yusuf\Desktop\Proje\proje-eticaret\proje-eticaret\bin\System.Web.Webpages.Razor.dll
+C:\Users\yusuf\Desktop\Proje\proje-eticaret\proje-eticaret\bin\EntityFramework.xml
+C:\Users\yusuf\Desktop\Proje\proje-eticaret\proje-eticaret\bin\EntityFramework.SqlServer.xml
+C:\Users\yusuf\Desktop\Proje\proje-eticaret\proje-eticaret\bin\System.Web.Razor.xml
+C:\Users\yusuf\Desktop\Proje\proje-eticaret\proje-eticaret\bin\System.Web.Webpages.xml
+C:\Users\yusuf\Desktop\Proje\proje-eticaret\proje-eticaret\bin\System.Web.Webpages.Deployment.xml
+C:\Users\yusuf\Desktop\Proje\proje-eticaret\proje-eticaret\bin\System.Web.Webpages.Razor.xml
+C:\Users\yusuf\Desktop\Proje\proje-eticaret\proje-eticaret\bin\System.Web.Helpers.xml
+C:\Users\yusuf\Desktop\Proje\proje-eticaret\proje-eticaret\bin\System.Web.Mvc.xml
+C:\Users\yusuf\Desktop\Proje\proje-eticaret\proje-eticaret\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\yusuf\Desktop\Proje\proje-eticaret\proje-eticaret\obj\Debug\proje-eticaret.csprojAssemblyReference.cache
+C:\Users\yusuf\Desktop\Proje\proje-eticaret\proje-eticaret\obj\Debug\proje-eticaret.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\Desktop\Proje\proje-eticaret\proje-eticaret\obj\Debug\proje-eticaret.csproj.CopyComplete
+C:\Users\yusuf\Desktop\Proje\proje-eticaret\proje-eticaret\obj\Debug\proje-eticaret.dll
+C:\Users\yusuf\Desktop\Proje\proje-eticaret\proje-eticaret\obj\Debug\proje-eticaret.pdb
+C:\Users\Ben\Desktop\Proje\proje-eticaret\proje-eticaret\bin\proje-eticaret.dll.config
+C:\Users\Ben\Desktop\Proje\proje-eticaret\proje-eticaret\bin\proje-eticaret.dll
+C:\Users\Ben\Desktop\Proje\proje-eticaret\proje-eticaret\bin\proje-eticaret.pdb
+C:\Users\Ben\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\csc.exe
+C:\Users\Ben\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\csc.exe.config
+C:\Users\Ben\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\csc.rsp
+C:\Users\Ben\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\csi.exe
+C:\Users\Ben\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\csi.exe.config
+C:\Users\Ben\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\csi.rsp
+C:\Users\Ben\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ben\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ben\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ben\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ben\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ben\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ben\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ben\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ben\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ben\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ben\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ben\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\System.AppContext.dll
+C:\Users\Ben\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ben\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\System.Console.dll
+C:\Users\Ben\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ben\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ben\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ben\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ben\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ben\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Ben\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Ben\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ben\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Ben\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\System.Security.Claims.dll
+C:\Users\Ben\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ben\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ben\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ben\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ben\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Ben\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ben\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ben\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ben\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ben\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ben\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ben\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\vbc.exe
+C:\Users\Ben\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\vbc.exe.config
+C:\Users\Ben\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\vbc.rsp
+C:\Users\Ben\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ben\Desktop\Proje\proje-eticaret\proje-eticaret\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ben\Desktop\Proje\proje-eticaret\proje-eticaret\bin\EntityFramework.dll
+C:\Users\Ben\Desktop\Proje\proje-eticaret\proje-eticaret\bin\EntityFramework.SqlServer.dll
+C:\Users\Ben\Desktop\Proje\proje-eticaret\proje-eticaret\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ben\Desktop\Proje\proje-eticaret\proje-eticaret\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ben\Desktop\Proje\proje-eticaret\proje-eticaret\bin\System.Web.Helpers.dll
+C:\Users\Ben\Desktop\Proje\proje-eticaret\proje-eticaret\bin\System.Web.Mvc.dll
+C:\Users\Ben\Desktop\Proje\proje-eticaret\proje-eticaret\bin\System.Web.Razor.dll
+C:\Users\Ben\Desktop\Proje\proje-eticaret\proje-eticaret\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Ben\Desktop\Proje\proje-eticaret\proje-eticaret\bin\System.Web.Webpages.dll
+C:\Users\Ben\Desktop\Proje\proje-eticaret\proje-eticaret\bin\System.Web.Webpages.Razor.dll
+C:\Users\Ben\Desktop\Proje\proje-eticaret\proje-eticaret\bin\EntityFramework.xml
+C:\Users\Ben\Desktop\Proje\proje-eticaret\proje-eticaret\bin\EntityFramework.SqlServer.xml
+C:\Users\Ben\Desktop\Proje\proje-eticaret\proje-eticaret\bin\System.Web.Razor.xml
+C:\Users\Ben\Desktop\Proje\proje-eticaret\proje-eticaret\bin\System.Web.Webpages.xml
+C:\Users\Ben\Desktop\Proje\proje-eticaret\proje-eticaret\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Ben\Desktop\Proje\proje-eticaret\proje-eticaret\bin\System.Web.Webpages.Razor.xml
+C:\Users\Ben\Desktop\Proje\proje-eticaret\proje-eticaret\bin\System.Web.Helpers.xml
+C:\Users\Ben\Desktop\Proje\proje-eticaret\proje-eticaret\bin\System.Web.Mvc.xml
+C:\Users\Ben\Desktop\Proje\proje-eticaret\proje-eticaret\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ben\Desktop\Proje\proje-eticaret\proje-eticaret\obj\Debug\proje-eticaret.csprojAssemblyReference.cache
+C:\Users\Ben\Desktop\Proje\proje-eticaret\proje-eticaret\obj\Debug\proje-eticaret.csproj.CoreCompileInputs.cache
+C:\Users\Ben\Desktop\Proje\proje-eticaret\proje-eticaret\obj\Debug\proje-eticaret.csproj.CopyComplete
+C:\Users\Ben\Desktop\Proje\proje-eticaret\proje-eticaret\obj\Debug\proje-eticaret.dll
+C:\Users\Ben\Desktop\Proje\proje-eticaret\proje-eticaret\obj\Debug\proje-eticaret.pdb
+C:\Users\Section2\Desktop\PROJE_\proje-eticaret\proje-eticaret\bin\proje-eticaret.dll.config
+C:\Users\Section2\Desktop\PROJE_\proje-eticaret\proje-eticaret\bin\proje-eticaret.dll
+C:\Users\Section2\Desktop\PROJE_\proje-eticaret\proje-eticaret\bin\proje-eticaret.pdb
+C:\Users\Section2\Desktop\PROJE_\proje-eticaret\proje-eticaret\bin\roslyn\csc.exe
+C:\Users\Section2\Desktop\PROJE_\proje-eticaret\proje-eticaret\bin\roslyn\csc.exe.config
+C:\Users\Section2\Desktop\PROJE_\proje-eticaret\proje-eticaret\bin\roslyn\csc.rsp
+C:\Users\Section2\Desktop\PROJE_\proje-eticaret\proje-eticaret\bin\roslyn\csi.exe
+C:\Users\Section2\Desktop\PROJE_\proje-eticaret\proje-eticaret\bin\roslyn\csi.exe.config
+C:\Users\Section2\Desktop\PROJE_\proje-eticaret\proje-eticaret\bin\roslyn\csi.rsp
+C:\Users\Section2\Desktop\PROJE_\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Section2\Desktop\PROJE_\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Section2\Desktop\PROJE_\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Section2\Desktop\PROJE_\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Section2\Desktop\PROJE_\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Section2\Desktop\PROJE_\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Section2\Desktop\PROJE_\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Section2\Desktop\PROJE_\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Section2\Desktop\PROJE_\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Section2\Desktop\PROJE_\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Section2\Desktop\PROJE_\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Section2\Desktop\PROJE_\proje-eticaret\proje-eticaret\bin\roslyn\System.AppContext.dll
+C:\Users\Section2\Desktop\PROJE_\proje-eticaret\proje-eticaret\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Section2\Desktop\PROJE_\proje-eticaret\proje-eticaret\bin\roslyn\System.Console.dll
+C:\Users\Section2\Desktop\PROJE_\proje-eticaret\proje-eticaret\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Section2\Desktop\PROJE_\proje-eticaret\proje-eticaret\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Section2\Desktop\PROJE_\proje-eticaret\proje-eticaret\bin\roslyn\System.IO.Compression.dll
+C:\Users\Section2\Desktop\PROJE_\proje-eticaret\proje-eticaret\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Section2\Desktop\PROJE_\proje-eticaret\proje-eticaret\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Section2\Desktop\PROJE_\proje-eticaret\proje-eticaret\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Section2\Desktop\PROJE_\proje-eticaret\proje-eticaret\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Section2\Desktop\PROJE_\proje-eticaret\proje-eticaret\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Section2\Desktop\PROJE_\proje-eticaret\proje-eticaret\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Section2\Desktop\PROJE_\proje-eticaret\proje-eticaret\bin\roslyn\System.Security.Claims.dll
+C:\Users\Section2\Desktop\PROJE_\proje-eticaret\proje-eticaret\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Section2\Desktop\PROJE_\proje-eticaret\proje-eticaret\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Section2\Desktop\PROJE_\proje-eticaret\proje-eticaret\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Section2\Desktop\PROJE_\proje-eticaret\proje-eticaret\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Section2\Desktop\PROJE_\proje-eticaret\proje-eticaret\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Section2\Desktop\PROJE_\proje-eticaret\proje-eticaret\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Section2\Desktop\PROJE_\proje-eticaret\proje-eticaret\bin\roslyn\System.ValueTuple.dll
+C:\Users\Section2\Desktop\PROJE_\proje-eticaret\proje-eticaret\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Section2\Desktop\PROJE_\proje-eticaret\proje-eticaret\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Section2\Desktop\PROJE_\proje-eticaret\proje-eticaret\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Section2\Desktop\PROJE_\proje-eticaret\proje-eticaret\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Section2\Desktop\PROJE_\proje-eticaret\proje-eticaret\bin\roslyn\vbc.exe
+C:\Users\Section2\Desktop\PROJE_\proje-eticaret\proje-eticaret\bin\roslyn\vbc.exe.config
+C:\Users\Section2\Desktop\PROJE_\proje-eticaret\proje-eticaret\bin\roslyn\vbc.rsp
+C:\Users\Section2\Desktop\PROJE_\proje-eticaret\proje-eticaret\bin\roslyn\VBCSCompiler.exe
+C:\Users\Section2\Desktop\PROJE_\proje-eticaret\proje-eticaret\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Section2\Desktop\PROJE_\proje-eticaret\proje-eticaret\bin\EntityFramework.dll
+C:\Users\Section2\Desktop\PROJE_\proje-eticaret\proje-eticaret\bin\EntityFramework.SqlServer.dll
+C:\Users\Section2\Desktop\PROJE_\proje-eticaret\proje-eticaret\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Section2\Desktop\PROJE_\proje-eticaret\proje-eticaret\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Section2\Desktop\PROJE_\proje-eticaret\proje-eticaret\bin\System.Web.Helpers.dll
+C:\Users\Section2\Desktop\PROJE_\proje-eticaret\proje-eticaret\bin\System.Web.Mvc.dll
+C:\Users\Section2\Desktop\PROJE_\proje-eticaret\proje-eticaret\bin\System.Web.Razor.dll
+C:\Users\Section2\Desktop\PROJE_\proje-eticaret\proje-eticaret\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Section2\Desktop\PROJE_\proje-eticaret\proje-eticaret\bin\System.Web.Webpages.dll
+C:\Users\Section2\Desktop\PROJE_\proje-eticaret\proje-eticaret\bin\System.Web.Webpages.Razor.dll
+C:\Users\Section2\Desktop\PROJE_\proje-eticaret\proje-eticaret\bin\EntityFramework.xml
+C:\Users\Section2\Desktop\PROJE_\proje-eticaret\proje-eticaret\bin\EntityFramework.SqlServer.xml
+C:\Users\Section2\Desktop\PROJE_\proje-eticaret\proje-eticaret\bin\System.Web.Razor.xml
+C:\Users\Section2\Desktop\PROJE_\proje-eticaret\proje-eticaret\bin\System.Web.Webpages.xml
+C:\Users\Section2\Desktop\PROJE_\proje-eticaret\proje-eticaret\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Section2\Desktop\PROJE_\proje-eticaret\proje-eticaret\bin\System.Web.Webpages.Razor.xml
+C:\Users\Section2\Desktop\PROJE_\proje-eticaret\proje-eticaret\bin\System.Web.Helpers.xml
+C:\Users\Section2\Desktop\PROJE_\proje-eticaret\proje-eticaret\bin\System.Web.Mvc.xml
+C:\Users\Section2\Desktop\PROJE_\proje-eticaret\proje-eticaret\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Section2\Desktop\PROJE_\proje-eticaret\proje-eticaret\obj\Debug\proje-eticaret.csprojAssemblyReference.cache
+C:\Users\Section2\Desktop\PROJE_\proje-eticaret\proje-eticaret\obj\Debug\proje-eticaret.csproj.CoreCompileInputs.cache
+C:\Users\Section2\Desktop\PROJE_\proje-eticaret\proje-eticaret\obj\Debug\proje-eticaret.csproj.CopyComplete
+C:\Users\Section2\Desktop\PROJE_\proje-eticaret\proje-eticaret\obj\Debug\proje-eticaret.dll
+C:\Users\Section2\Desktop\PROJE_\proje-eticaret\proje-eticaret\obj\Debug\proje-eticaret.pdb
+C:\Users\Ben\Desktop\PROJE_2\proje-eticaret\proje-eticaret\bin\proje-eticaret.dll.config
+C:\Users\Ben\Desktop\PROJE_2\proje-eticaret\proje-eticaret\bin\proje-eticaret.dll
+C:\Users\Ben\Desktop\PROJE_2\proje-eticaret\proje-eticaret\bin\proje-eticaret.pdb
+C:\Users\Ben\Desktop\PROJE_2\proje-eticaret\proje-eticaret\bin\roslyn\csc.exe
+C:\Users\Ben\Desktop\PROJE_2\proje-eticaret\proje-eticaret\bin\roslyn\csc.exe.config
+C:\Users\Ben\Desktop\PROJE_2\proje-eticaret\proje-eticaret\bin\roslyn\csc.rsp
+C:\Users\Ben\Desktop\PROJE_2\proje-eticaret\proje-eticaret\bin\roslyn\csi.exe
+C:\Users\Ben\Desktop\PROJE_2\proje-eticaret\proje-eticaret\bin\roslyn\csi.exe.config
+C:\Users\Ben\Desktop\PROJE_2\proje-eticaret\proje-eticaret\bin\roslyn\csi.rsp
+C:\Users\Ben\Desktop\PROJE_2\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ben\Desktop\PROJE_2\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ben\Desktop\PROJE_2\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ben\Desktop\PROJE_2\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ben\Desktop\PROJE_2\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ben\Desktop\PROJE_2\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ben\Desktop\PROJE_2\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ben\Desktop\PROJE_2\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ben\Desktop\PROJE_2\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ben\Desktop\PROJE_2\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ben\Desktop\PROJE_2\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ben\Desktop\PROJE_2\proje-eticaret\proje-eticaret\bin\roslyn\System.AppContext.dll
+C:\Users\Ben\Desktop\PROJE_2\proje-eticaret\proje-eticaret\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ben\Desktop\PROJE_2\proje-eticaret\proje-eticaret\bin\roslyn\System.Console.dll
+C:\Users\Ben\Desktop\PROJE_2\proje-eticaret\proje-eticaret\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ben\Desktop\PROJE_2\proje-eticaret\proje-eticaret\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ben\Desktop\PROJE_2\proje-eticaret\proje-eticaret\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ben\Desktop\PROJE_2\proje-eticaret\proje-eticaret\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ben\Desktop\PROJE_2\proje-eticaret\proje-eticaret\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ben\Desktop\PROJE_2\proje-eticaret\proje-eticaret\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Ben\Desktop\PROJE_2\proje-eticaret\proje-eticaret\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Ben\Desktop\PROJE_2\proje-eticaret\proje-eticaret\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ben\Desktop\PROJE_2\proje-eticaret\proje-eticaret\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Ben\Desktop\PROJE_2\proje-eticaret\proje-eticaret\bin\roslyn\System.Security.Claims.dll
+C:\Users\Ben\Desktop\PROJE_2\proje-eticaret\proje-eticaret\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ben\Desktop\PROJE_2\proje-eticaret\proje-eticaret\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ben\Desktop\PROJE_2\proje-eticaret\proje-eticaret\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ben\Desktop\PROJE_2\proje-eticaret\proje-eticaret\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ben\Desktop\PROJE_2\proje-eticaret\proje-eticaret\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Ben\Desktop\PROJE_2\proje-eticaret\proje-eticaret\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ben\Desktop\PROJE_2\proje-eticaret\proje-eticaret\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ben\Desktop\PROJE_2\proje-eticaret\proje-eticaret\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ben\Desktop\PROJE_2\proje-eticaret\proje-eticaret\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ben\Desktop\PROJE_2\proje-eticaret\proje-eticaret\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ben\Desktop\PROJE_2\proje-eticaret\proje-eticaret\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ben\Desktop\PROJE_2\proje-eticaret\proje-eticaret\bin\roslyn\vbc.exe
+C:\Users\Ben\Desktop\PROJE_2\proje-eticaret\proje-eticaret\bin\roslyn\vbc.exe.config
+C:\Users\Ben\Desktop\PROJE_2\proje-eticaret\proje-eticaret\bin\roslyn\vbc.rsp
+C:\Users\Ben\Desktop\PROJE_2\proje-eticaret\proje-eticaret\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ben\Desktop\PROJE_2\proje-eticaret\proje-eticaret\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ben\Desktop\PROJE_2\proje-eticaret\proje-eticaret\bin\EntityFramework.dll
+C:\Users\Ben\Desktop\PROJE_2\proje-eticaret\proje-eticaret\bin\EntityFramework.SqlServer.dll
+C:\Users\Ben\Desktop\PROJE_2\proje-eticaret\proje-eticaret\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ben\Desktop\PROJE_2\proje-eticaret\proje-eticaret\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ben\Desktop\PROJE_2\proje-eticaret\proje-eticaret\bin\System.Web.Helpers.dll
+C:\Users\Ben\Desktop\PROJE_2\proje-eticaret\proje-eticaret\bin\System.Web.Mvc.dll
+C:\Users\Ben\Desktop\PROJE_2\proje-eticaret\proje-eticaret\bin\System.Web.Razor.dll
+C:\Users\Ben\Desktop\PROJE_2\proje-eticaret\proje-eticaret\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Ben\Desktop\PROJE_2\proje-eticaret\proje-eticaret\bin\System.Web.Webpages.dll
+C:\Users\Ben\Desktop\PROJE_2\proje-eticaret\proje-eticaret\bin\System.Web.Webpages.Razor.dll
+C:\Users\Ben\Desktop\PROJE_2\proje-eticaret\proje-eticaret\bin\EntityFramework.xml
+C:\Users\Ben\Desktop\PROJE_2\proje-eticaret\proje-eticaret\bin\EntityFramework.SqlServer.xml
+C:\Users\Ben\Desktop\PROJE_2\proje-eticaret\proje-eticaret\bin\System.Web.Razor.xml
+C:\Users\Ben\Desktop\PROJE_2\proje-eticaret\proje-eticaret\bin\System.Web.Webpages.xml
+C:\Users\Ben\Desktop\PROJE_2\proje-eticaret\proje-eticaret\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Ben\Desktop\PROJE_2\proje-eticaret\proje-eticaret\bin\System.Web.Webpages.Razor.xml
+C:\Users\Ben\Desktop\PROJE_2\proje-eticaret\proje-eticaret\bin\System.Web.Helpers.xml
+C:\Users\Ben\Desktop\PROJE_2\proje-eticaret\proje-eticaret\bin\System.Web.Mvc.xml
+C:\Users\Ben\Desktop\PROJE_2\proje-eticaret\proje-eticaret\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ben\Desktop\PROJE_2\proje-eticaret\proje-eticaret\obj\Debug\proje-eticaret.csprojAssemblyReference.cache
+C:\Users\Ben\Desktop\PROJE_2\proje-eticaret\proje-eticaret\obj\Debug\proje-eticaret.csproj.CoreCompileInputs.cache
+C:\Users\Ben\Desktop\PROJE_2\proje-eticaret\proje-eticaret\obj\Debug\proje-eticaret.csproj.CopyComplete
+C:\Users\Ben\Desktop\PROJE_2\proje-eticaret\proje-eticaret\obj\Debug\proje-eticaret.dll
+C:\Users\Ben\Desktop\PROJE_2\proje-eticaret\proje-eticaret\obj\Debug\proje-eticaret.pdb
+C:\Users\yusuf\Desktop\PROJE_3\proje-eticaret\proje-eticaret\bin\proje-eticaret.dll.config
+C:\Users\yusuf\Desktop\PROJE_3\proje-eticaret\proje-eticaret\bin\proje-eticaret.dll
+C:\Users\yusuf\Desktop\PROJE_3\proje-eticaret\proje-eticaret\bin\proje-eticaret.pdb
+C:\Users\yusuf\Desktop\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\csc.exe
+C:\Users\yusuf\Desktop\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\csc.exe.config
+C:\Users\yusuf\Desktop\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\csc.rsp
+C:\Users\yusuf\Desktop\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\csi.exe
+C:\Users\yusuf\Desktop\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\csi.exe.config
+C:\Users\yusuf\Desktop\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\csi.rsp
+C:\Users\yusuf\Desktop\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\yusuf\Desktop\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\yusuf\Desktop\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\yusuf\Desktop\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\yusuf\Desktop\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\yusuf\Desktop\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\yusuf\Desktop\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\yusuf\Desktop\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\yusuf\Desktop\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\yusuf\Desktop\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\yusuf\Desktop\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\yusuf\Desktop\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\System.AppContext.dll
+C:\Users\yusuf\Desktop\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\yusuf\Desktop\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\System.Console.dll
+C:\Users\yusuf\Desktop\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\yusuf\Desktop\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\yusuf\Desktop\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\System.IO.Compression.dll
+C:\Users\yusuf\Desktop\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\yusuf\Desktop\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\yusuf\Desktop\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\yusuf\Desktop\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\System.IO.Pipes.dll
+C:\Users\yusuf\Desktop\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\yusuf\Desktop\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\yusuf\Desktop\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\System.Security.Claims.dll
+C:\Users\yusuf\Desktop\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\yusuf\Desktop\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\yusuf\Desktop\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\yusuf\Desktop\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\yusuf\Desktop\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\yusuf\Desktop\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\yusuf\Desktop\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\System.ValueTuple.dll
+C:\Users\yusuf\Desktop\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\yusuf\Desktop\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\yusuf\Desktop\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\System.Xml.XPath.dll
+C:\Users\yusuf\Desktop\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\yusuf\Desktop\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\vbc.exe
+C:\Users\yusuf\Desktop\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\vbc.exe.config
+C:\Users\yusuf\Desktop\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\vbc.rsp
+C:\Users\yusuf\Desktop\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\VBCSCompiler.exe
+C:\Users\yusuf\Desktop\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\yusuf\Desktop\PROJE_3\proje-eticaret\proje-eticaret\bin\EntityFramework.dll
+C:\Users\yusuf\Desktop\PROJE_3\proje-eticaret\proje-eticaret\bin\EntityFramework.SqlServer.dll
+C:\Users\yusuf\Desktop\PROJE_3\proje-eticaret\proje-eticaret\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\yusuf\Desktop\PROJE_3\proje-eticaret\proje-eticaret\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\yusuf\Desktop\PROJE_3\proje-eticaret\proje-eticaret\bin\System.Web.Helpers.dll
+C:\Users\yusuf\Desktop\PROJE_3\proje-eticaret\proje-eticaret\bin\System.Web.Mvc.dll
+C:\Users\yusuf\Desktop\PROJE_3\proje-eticaret\proje-eticaret\bin\System.Web.Razor.dll
+C:\Users\yusuf\Desktop\PROJE_3\proje-eticaret\proje-eticaret\bin\System.Web.Webpages.Deployment.dll
+C:\Users\yusuf\Desktop\PROJE_3\proje-eticaret\proje-eticaret\bin\System.Web.Webpages.dll
+C:\Users\yusuf\Desktop\PROJE_3\proje-eticaret\proje-eticaret\bin\System.Web.Webpages.Razor.dll
+C:\Users\yusuf\Desktop\PROJE_3\proje-eticaret\proje-eticaret\bin\EntityFramework.xml
+C:\Users\yusuf\Desktop\PROJE_3\proje-eticaret\proje-eticaret\bin\EntityFramework.SqlServer.xml
+C:\Users\yusuf\Desktop\PROJE_3\proje-eticaret\proje-eticaret\bin\System.Web.Razor.xml
+C:\Users\yusuf\Desktop\PROJE_3\proje-eticaret\proje-eticaret\bin\System.Web.Webpages.xml
+C:\Users\yusuf\Desktop\PROJE_3\proje-eticaret\proje-eticaret\bin\System.Web.Webpages.Deployment.xml
+C:\Users\yusuf\Desktop\PROJE_3\proje-eticaret\proje-eticaret\bin\System.Web.Webpages.Razor.xml
+C:\Users\yusuf\Desktop\PROJE_3\proje-eticaret\proje-eticaret\bin\System.Web.Helpers.xml
+C:\Users\yusuf\Desktop\PROJE_3\proje-eticaret\proje-eticaret\bin\System.Web.Mvc.xml
+C:\Users\yusuf\Desktop\PROJE_3\proje-eticaret\proje-eticaret\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\yusuf\Desktop\PROJE_3\proje-eticaret\proje-eticaret\obj\Debug\proje-eticaret.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\Desktop\PROJE_3\proje-eticaret\proje-eticaret\obj\Debug\proje-eticaret.csproj.CopyComplete
+C:\Users\yusuf\Desktop\PROJE_3\proje-eticaret\proje-eticaret\obj\Debug\proje-eticaret.dll
+C:\Users\yusuf\Desktop\PROJE_3\proje-eticaret\proje-eticaret\obj\Debug\proje-eticaret.pdb
+C:\Users\yusuf\Desktop\PROJE_3\proje-eticaret\proje-eticaret\obj\Debug\proje-eticaret.csprojAssemblyReference.cache
+C:\Users\Ben\Desktop\PROJE_3\PROJE_3\proje-eticaret\proje-eticaret\bin\proje-eticaret.dll.config
+C:\Users\Ben\Desktop\PROJE_3\PROJE_3\proje-eticaret\proje-eticaret\bin\proje-eticaret.dll
+C:\Users\Ben\Desktop\PROJE_3\PROJE_3\proje-eticaret\proje-eticaret\bin\proje-eticaret.pdb
+C:\Users\Ben\Desktop\PROJE_3\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\csc.exe
+C:\Users\Ben\Desktop\PROJE_3\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\csc.exe.config
+C:\Users\Ben\Desktop\PROJE_3\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\csc.rsp
+C:\Users\Ben\Desktop\PROJE_3\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\csi.exe
+C:\Users\Ben\Desktop\PROJE_3\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\csi.exe.config
+C:\Users\Ben\Desktop\PROJE_3\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\csi.rsp
+C:\Users\Ben\Desktop\PROJE_3\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ben\Desktop\PROJE_3\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ben\Desktop\PROJE_3\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ben\Desktop\PROJE_3\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ben\Desktop\PROJE_3\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ben\Desktop\PROJE_3\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ben\Desktop\PROJE_3\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ben\Desktop\PROJE_3\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ben\Desktop\PROJE_3\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ben\Desktop\PROJE_3\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ben\Desktop\PROJE_3\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ben\Desktop\PROJE_3\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\System.AppContext.dll
+C:\Users\Ben\Desktop\PROJE_3\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ben\Desktop\PROJE_3\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\System.Console.dll
+C:\Users\Ben\Desktop\PROJE_3\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ben\Desktop\PROJE_3\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ben\Desktop\PROJE_3\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ben\Desktop\PROJE_3\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ben\Desktop\PROJE_3\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ben\Desktop\PROJE_3\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Ben\Desktop\PROJE_3\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Ben\Desktop\PROJE_3\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ben\Desktop\PROJE_3\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Ben\Desktop\PROJE_3\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\System.Security.Claims.dll
+C:\Users\Ben\Desktop\PROJE_3\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ben\Desktop\PROJE_3\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ben\Desktop\PROJE_3\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ben\Desktop\PROJE_3\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ben\Desktop\PROJE_3\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Ben\Desktop\PROJE_3\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ben\Desktop\PROJE_3\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ben\Desktop\PROJE_3\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ben\Desktop\PROJE_3\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ben\Desktop\PROJE_3\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ben\Desktop\PROJE_3\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ben\Desktop\PROJE_3\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\vbc.exe
+C:\Users\Ben\Desktop\PROJE_3\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\vbc.exe.config
+C:\Users\Ben\Desktop\PROJE_3\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\vbc.rsp
+C:\Users\Ben\Desktop\PROJE_3\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ben\Desktop\PROJE_3\PROJE_3\proje-eticaret\proje-eticaret\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ben\Desktop\PROJE_3\PROJE_3\proje-eticaret\proje-eticaret\bin\EntityFramework.dll
+C:\Users\Ben\Desktop\PROJE_3\PROJE_3\proje-eticaret\proje-eticaret\bin\EntityFramework.SqlServer.dll
+C:\Users\Ben\Desktop\PROJE_3\PROJE_3\proje-eticaret\proje-eticaret\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ben\Desktop\PROJE_3\PROJE_3\proje-eticaret\proje-eticaret\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ben\Desktop\PROJE_3\PROJE_3\proje-eticaret\proje-eticaret\bin\System.Web.Helpers.dll
+C:\Users\Ben\Desktop\PROJE_3\PROJE_3\proje-eticaret\proje-eticaret\bin\System.Web.Mvc.dll
+C:\Users\Ben\Desktop\PROJE_3\PROJE_3\proje-eticaret\proje-eticaret\bin\System.Web.Razor.dll
+C:\Users\Ben\Desktop\PROJE_3\PROJE_3\proje-eticaret\proje-eticaret\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Ben\Desktop\PROJE_3\PROJE_3\proje-eticaret\proje-eticaret\bin\System.Web.Webpages.dll
+C:\Users\Ben\Desktop\PROJE_3\PROJE_3\proje-eticaret\proje-eticaret\bin\System.Web.Webpages.Razor.dll
+C:\Users\Ben\Desktop\PROJE_3\PROJE_3\proje-eticaret\proje-eticaret\bin\EntityFramework.xml
+C:\Users\Ben\Desktop\PROJE_3\PROJE_3\proje-eticaret\proje-eticaret\bin\EntityFramework.SqlServer.xml
+C:\Users\Ben\Desktop\PROJE_3\PROJE_3\proje-eticaret\proje-eticaret\bin\System.Web.Razor.xml
+C:\Users\Ben\Desktop\PROJE_3\PROJE_3\proje-eticaret\proje-eticaret\bin\System.Web.Webpages.xml
+C:\Users\Ben\Desktop\PROJE_3\PROJE_3\proje-eticaret\proje-eticaret\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Ben\Desktop\PROJE_3\PROJE_3\proje-eticaret\proje-eticaret\bin\System.Web.Webpages.Razor.xml
+C:\Users\Ben\Desktop\PROJE_3\PROJE_3\proje-eticaret\proje-eticaret\bin\System.Web.Helpers.xml
+C:\Users\Ben\Desktop\PROJE_3\PROJE_3\proje-eticaret\proje-eticaret\bin\System.Web.Mvc.xml
+C:\Users\Ben\Desktop\PROJE_3\PROJE_3\proje-eticaret\proje-eticaret\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ben\Desktop\PROJE_3\PROJE_3\proje-eticaret\proje-eticaret\obj\Debug\proje-eticaret.csprojAssemblyReference.cache
+C:\Users\Ben\Desktop\PROJE_3\PROJE_3\proje-eticaret\proje-eticaret\obj\Debug\proje-eticaret.csproj.CoreCompileInputs.cache
+C:\Users\Ben\Desktop\PROJE_3\PROJE_3\proje-eticaret\proje-eticaret\obj\Debug\proje-eticaret.csproj.CopyComplete
+C:\Users\Ben\Desktop\PROJE_3\PROJE_3\proje-eticaret\proje-eticaret\obj\Debug\proje-eticaret.dll
+C:\Users\Ben\Desktop\PROJE_3\PROJE_3\proje-eticaret\proje-eticaret\obj\Debug\proje-eticaret.pdb

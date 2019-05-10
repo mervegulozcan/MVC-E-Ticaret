@@ -1,0 +1,82 @@
+﻿
+@{
+    ViewBag.Title = "UserOrders";
+}
+@using proje_eticaret.Models
+@model List<Order>
+@section body{
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <!-- START Right Column -->
+    <div id="right-column">
+        <div class="right-column-content container-fluid">
+            <div class="row">
+                <div class="col-md-6">
+                    <h1>
+                        <span class="main-text">
+                            Siparişlerim
+                        </span>
+                    </h1>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+
+                    <!-- START Block: Orders -->
+                    <div class="block">
+                        <div class="block-content-outer">
+                            <div class="block-content-inner">
+                                <div class="table-responsive">
+                                    <form role="form">
+                                        <table class="table table-condensed table-striped table-bordered table-hover">
+                                            <thead>
+                                                <tr>
+                                                    <th class="col-xs-2 text-center">Takip Numarası</th>
+                                                    <th class="col-xs-1 text-center">Sipariş Durumu</th>
+                                                    <th class="col-xs-2 text-center">Sipariş Tarihi</th>
+                                                    <th class="col-xs-2 text-center">Kargolanma Tarihi</th>
+                                                    <th class="col-xs-2 text-center">Teslim Tarihi</th>
+                                                    <th class="text-right col-xs-2 text-center">İşlem</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+
+                                                @foreach (Order o in Model)
+                                                {
+                                                    <tr>
+                                                        <td class="text-center">@o.TrackingNo</td>
+                                                        <td>
+                                                            <span class="label label-success text-center" style="background-color:yellowgreen;color:white;">Teslim Edildi</span>
+                                                        </td>
+                                                        <td class="text-center">@o.OrderDate.ToShortDateString()</td>
+                                                        <td class="text-center">@o.ShipperDate.ToShortDateString()</td>
+                                                        <td class="text-center">@o.DeliveryDate.ToShortDateString()</td>
+                                                        <td class="text-center">
+                                                            <a href="/User/GetOrderDetail?id=@o.OrderID" class="btn btn-primary btn-sm modalAc" role="button">Sipariş Detayı</a>
+                                                        </td>
+                                                    </tr>
+                                                }
+                                            </tbody>
+                                        </table>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- END Block: Orders -->
+                </div>
+            </div>
+        </div>
+
+    </div>
+    <!-- END Right Column -->
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+}
+

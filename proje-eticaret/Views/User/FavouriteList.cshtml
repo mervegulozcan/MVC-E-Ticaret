@@ -1,0 +1,121 @@
+﻿
+@{
+    ViewBag.Title = "UserFavouriteList";
+}
+@using proje_eticaret.Models
+
+@model List<Favourite>
+
+@section body{
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <!-- START Right Column -->
+    <div id="right-column">
+        <div class="right-column-content container-fluid">
+            <div class="row">
+                <div class="col-md-6">
+                    <h1>
+                        <span class="main-text">
+                            Favori Ürünler
+                        </span>
+                    </h1>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+
+                    <!-- START Block: Orders -->
+                    <div class="block">
+                        <div class="block-content-outer">
+                            <div class="block-content-inner">
+                                <div class="table-responsive">
+                                    <form role="form">
+                                        <table class="table table-condensed table-striped table-bordered table-hover">
+                                            <thead>
+                                                <tr>
+                                                    <th class="col-xs-2 text-center">Ürün Adı</th>
+                                                    <th class="col-xs-1 text-center">Kategori</th>
+                                                    <th class="col-xs-2 text-center">Favoriden Çıkar</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                @{ EticaretContext ctx = new EticaretContext();
+                                                    decimal toplam = 0;}
+
+                                                @foreach (Favourite fav in Model)
+                                                {
+                                                <tr>
+                                                    @if (fav.CategoryID == 1)
+                                                    {
+                                                        Book b = ctx.Books.FirstOrDefault(x => x.ProductID == fav.ProductID);
+                                                        <td class="text-center">@b.BookName</td>
+                                                    }
+                                                    @if (fav.CategoryID == 2)
+                                                    {
+                                                        Film f = ctx.Films.FirstOrDefault(x => x.ProductID == fav.ProductID);
+                                                        <td class="text-center">@f.MovieName</td>
+                                                    }
+                                                    @if (fav.CategoryID == 3)
+                                                    {
+                                                        Journal j = ctx.Journals.FirstOrDefault(x => x.ProductID == fav.ProductID);
+                                                        <td class="text-center">@j.JournalName</td>
+                                                    }
+                                                    @if (fav.CategoryID == 4)
+                                                    {
+                                                        Music m = ctx.Musics.FirstOrDefault(x => x.ProductID == fav.ProductID);
+                                                        <td class="text-center">@m.AlbumName</td>
+                                                    }
+
+
+                                                    @*<span class="label label-success text-center" style="background-color:yellowgreen;color:white;">Teslim Edildi</span>*@
+
+                                                    <td class="text-center">@fav.Category.CategoryName</td>
+                                                    <td class="text-center"><a href="#/" class="btn btn-danger btn-sm favoriCikar" data-prdid="@fav.ProductID" data-catid="@fav.CategoryID"> Favoriden Çıkar</a></td>
+                                                </tr>
+                                                }
+                                            </tbody>
+                                        </table>
+
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- END Block: Orders -->
+                </div>
+            </div>
+        </div>
+
+    </div>
+    <!-- END Right Column -->
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+}
+@section scripts{
+    <script>
+        $(".favoriCikar").click(function () {
+            const prdid = $(this).attr("data-prdid");
+            const catid = $(this).attr("data-catid");
+
+            $.ajax({
+                type: "POST",
+                url: "/User/RemoveFromFavourite",
+                data: { pID: prdid, cID: catid },
+                success: function (yanit) {
+                    alert(yanit);
+                    window.location.reload();
+                },
+                error: function () {
+                    alert("ajax hata");
+                }
+            })
+
+        });
+    </script>
+}

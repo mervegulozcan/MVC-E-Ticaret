@@ -1,0 +1,67 @@
+﻿
+@{
+    ViewBag.Title = "OrderList";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+@using proje_eticaret.App_Classes;
+@model List<OrderList>
+@section body2 {
+
+    <div class="col-md-12">
+
+        <!-- START Block: Product List -->
+        <div class="block">
+            <div class="block-heading">
+                <div class="main-text h2">
+                    Sipariş Geçmişi
+                </div>
+            </div>
+            <div class="block-content-outer">
+                <div class="block-content-inner">
+                    <div class="table-responsive">
+                        <form role="form">
+                            <table class="table table-condensed table-striped table-bordered table-hover">
+                                <thead>
+                                    <tr>
+                                        <td>
+                                            <input type="text" class="form-control input-sm" placeholder="Sipariş No" size="5">
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <th class="col-xs-2">Sipariş No</th>
+                                        <th class="col-xs-2">İsim</th>
+                                        <th class="col-xs-2">Kullanıcı Adı</th>
+                                        <th class="col-xs-2">Sipariş Tarihi</th>
+                                        <th class="col-xs-2">Kargo Firması</th>
+                                        <th class="col-xs-2">Kargo Takip No</th>
+                                        <th class="col-xs-2">Kargo Tarihi</th>
+                                        <th class="col-xs-2">Teslim Tarihi</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (OrderList order in Model)
+                                    {
+                                        <tr>
+                                            <td>@order.OrderID</td>
+                                            <td>@order.CustomerName</td>
+                                            <td>@order.CustomerUserName</td>
+                                            <td>@order.OrderDate </td>
+                                            <td>@order.ShipperCompanyName</td>
+                                            <td>@order.TrackingNo</td>
+                                            <td>@order.ShipperDate</td>
+                                            <td>@order.DeliveryDate</td>
+                                        </tr>
+                                    }
+
+                                </tbody>
+                            </table>
+
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- END Block: Product List -->
+
+    </div>
+}

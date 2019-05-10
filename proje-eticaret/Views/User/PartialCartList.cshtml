@@ -1,0 +1,62 @@
+﻿
+@using proje_eticaret.App_Classes
+@model List<MyCart>
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">Ürün</th>
+            <th scope="col">Fiyat</th>
+            <th scope="col">Sepetten Çıkar</th>
+        </tr>
+    </thead>
+    <tbody>
+        @{decimal toplam = 0;
+
+            foreach (MyCart mc in Model)
+            {
+                <tr>
+                    <td>
+                        <div class="media">
+                            @*<div class="d-flex">
+                                    <img src="/Content/img/cart.jpg" alt="">
+                                </div>*@
+                            <div class="media-body">
+                                <p>@mc.ProductName</p>
+                            </div>
+                        </div>
+                    </td>
+                    <td>
+                        <h5>@mc.Price TL</h5>
+                        <h5 class="hidden"> @{toplam = toplam + mc.Price;}</h5>
+
+                    </td>
+                    <td>
+                        <a href="#/" class="genric-btn danger circle sepettenCikar" data-name="@mc.ProductName">Çıkar</a>
+                    </td>
+                </tr>
+            }
+            <tr>
+                <td></td>
+                <td></td>
+                <td>
+                    <h5>Toplam Tutar</h5>
+                </td>
+                <td>
+                    <h5>@toplam TL</h5>
+                </td>
+            </tr>
+        }
+        <tr class="out_button_area">
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>
+                <div class="checkout_btn_inner d-flex align-items-center">
+                    <a class="gray_btn" href="/Home/Index">Alışverişe Devam Et</a>
+                    <a class="primary-btn " href="/User/OrderConfirm">Siparişi Onayla</a>
+                </div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+

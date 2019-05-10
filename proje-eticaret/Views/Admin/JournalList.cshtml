@@ -1,0 +1,131 @@
+﻿
+@{
+    ViewBag.Title = "JournalPage";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+@using proje_eticaret.Models;
+@model List<Journal>
+
+@section body2{
+    <div class="right-column-content container-fluid">
+        <div class="row">
+            <div class="col-md-6">
+                <h1>
+                    <span aria-hidden="true" class="icon icon-dollar"></span>
+                    <span class="main-text">
+                        Dergi Listesi
+                    </span>
+                </h1>
+            </div>
+            <div class="col-md-6">
+                <!-- START Main Buttons -->
+                <div class="page-heading-controls">
+                    <a href="/Admin/AddJournal?pfrom=ekle" role="button" class="btn btn-primary">Dergi Ekle</a>
+
+
+                </div>
+                <!-- END Main Buttons -->
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <!-- START Block: Product List -->
+                <div class="block">
+                    <div class="block-heading">
+                        <div class="main-text h2">
+
+                        </div>
+                    </div>
+                    <div class="block-content-outer">
+                        <div class="block-content-inner">
+                            <div class="table-responsive">
+                                <form role="form">
+                                    <table class="table table-condensed table-striped table-bordered table-hover">
+                                        <thead>
+                                            <tr>
+                                                <th class="text-center">
+                                                    <input type="checkbox" class="list-select-all">
+                                                </th>
+                                                <th class="text-center col-xs-4">Fotoğraf</th>
+                                                <th class="col-xs-1">Dergi Adı</th>
+                                                <th class="col-xs-4">Tür</th>
+                                                <th class="col-xs-4">Fiyat</th>
+                                                <th class="col-xs-4">Stok</th>
+                                                <th class="col-xs-4">Yayın Tarihi</th>
+                                                <th class="col-xs-4">Baskı Sayısı</th>
+
+                                                <th class="col-xs-4">Sil</th>
+                                                <th class="col-xs-4">Güncelle</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            @foreach (Journal j in Model)
+                                            {
+                                                <tr>
+                                                    <td class="text-center">
+                                                        <input type="checkbox">
+                                                    </td>
+                                                    <td class="text-center">
+                                                        <img src="@String.Format("data:image/jpg;base64,{0}",j.Base64String)" width="100" height="100" />
+                                                        @*<img src="http://placehold.it/40x40" width="40" height="40" class="list-thumbnail" alt="">*@
+                                                    </td>
+
+                                                    <td>@j.JournalName</td>
+                                                    <td>@j.Genre</td>
+                                                    <td>@j.Price</td>
+                                                    <td>@j.Stock</td>
+                                                    <td>@j.RelaseDate</td>
+                                                    <td>@j.Edition</td>
+                                                    <td class="text-right">
+                                                        <a href="#/" role="button" class="btn btn-danger btnSil" data-id="@j.ProductID" data-name="@j.JournalName">Sil</a>
+
+                                                    </td>
+                                                    <td class="text-right">
+                                                        <a href="/Admin/UpdateJournal?pID=@j.ProductID" role="button" class="btn btn-primary">Güncelle</a>
+                                                    </td>
+                                                </tr>
+                                            }
+                                        </tbody>
+                                    </table>
+                                    <div class="help-text">Showing 1 - 20 of 98</div>
+                                    <ul class="pagination">
+                                        <li class="disabled"><a href="#">«</a></li>
+                                        <li class="active"><a href="#"><span>1 <span class="sr-only">(current)</span></span></a></li>
+                                        <li><a href="#">2</a></li>
+                                        <li><a href="#">3</a></li>
+                                        <li><a href="#">4</a></li>
+                                        <li><a href="#">5</a></li>
+                                        <li><a href="#">»</a></li>
+                                    </ul>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- END Block: Product List -->
+            </div>
+        </div>
+    </div>
+}
+@section scripts{
+    <script type="text/javascript" src="/Content/assets/js/required/jquery-1.11.1.min.js"></script>
+    <script>
+        $(".btnSil").click(function () {
+            var id = $(this).attr("data-id");
+            var journalName = $(this).attr("data-name");
+            if (confirm(journalName + " dergisinin silinmesini onaylıyor musunuz?")) {
+                alert(id);
+                $.ajax({
+                    type: "POST",
+                    url: "/Admin/DeleteJournal/" + id,
+                    success: function () {
+                        window.location.replace("/Admin/JournalList");
+                    },
+                    error: function () {
+
+                    }
+                })
+            }
+        });
+    </script>
+}

@@ -1,0 +1,125 @@
+﻿
+@{
+    ViewBag.Title = "UserOrderDetails";
+}
+@using proje_eticaret.Models
+
+@model List<OrderDetail>
+@section body{
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <!-- START Right Column -->
+    <div id="right-column">
+        <div class="right-column-content container-fluid">
+            <div class="row">
+                <div class="col-md-6">
+                    <h1>
+                        <span class="main-text">
+                            Sipariş Detayı
+                        </span>
+                    </h1>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+
+                    <!-- START Block: Orders -->
+                    <div class="block">
+                        <div class="block-content-outer">
+                            <div class="block-content-inner">
+                                <div class="table-responsive">
+                                    <form role="form">
+                                        <table class="table table-condensed table-striped table-bordered table-hover">
+                                            <thead>
+                                                <tr>
+                                                    <th class="col-xs-2 text-center">Ürün Adı</th>
+                                                    <th class="col-xs-1 text-center">Kategori</th>
+                                                    <th class="col-xs-2 text-center">Fiyat</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                @{ EticaretContext ctx = new EticaretContext();
+                                                    decimal toplam = 0;}
+
+                                                @foreach (OrderDetail od in Model)
+                                                {
+                                                    <tr>
+                                                        @if (od.CategoryID == 1)
+                                                        {
+                                                            Book b = ctx.Books.FirstOrDefault(x => x.ProductID == od.ProductID);
+                                                            <td class="text-center">@b.BookName</td>
+                                                        }
+                                                        @if (od.CategoryID == 2)
+                                                        {
+                                                            Film f = ctx.Films.FirstOrDefault(x => x.ProductID == od.ProductID);
+                                                            <td class="text-center">@f.MovieName</td>
+                                                        }
+                                                        @if (od.CategoryID == 3)
+                                                        {
+                                                            Journal j = ctx.Journals.FirstOrDefault(x => x.ProductID == od.ProductID);
+                                                            <td class="text-center">@j.JournalName</td>
+                                                        }
+                                                        @if (od.CategoryID == 4)
+                                                        {
+                                                            Music m = ctx.Musics.FirstOrDefault(x => x.ProductID == od.ProductID);
+                                                            <td class="text-center">@m.AlbumName</td>
+                                                        }
+
+
+                                                        @*<span class="label label-success text-center" style="background-color:yellowgreen;color:white;">Teslim Edildi</span>*@
+
+                                                        <td class="text-center">@od.Category.CategoryName</td>
+                                                        <td class="text-center">@od.Price TL<h5 class="hidden"> @{toplam = toplam + od.Price;}</h5></td>
+
+
+                                                    </tr>
+                                                }
+                                                <tr>
+                                                    <td></td>
+                                                    <td></td>
+                                                    <td>
+                                                        <h5 class="text-right">@toplam TL</h5>
+                                                    </td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- END Block: Orders -->
+                </div>
+            </div>
+        </div>
+
+    </div>
+    <!-- END Right Column -->
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+}
+@section scripts{
+    <script>
+        $(".modalAc").click(function () {
+            const id = $(this).attr("data-id");
+            $.ajax({
+                type: "GET",
+                url: "/User/GetOrderDetail/" + id,
+                succes: function () {
+
+                },
+                error: function () {
+
+                }
+
+            });
+        });
+    </script>
+}
